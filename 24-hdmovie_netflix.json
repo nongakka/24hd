@@ -808,5 +808,305 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Stranger Things Season 3 (2019) สเตรนเจอร์ ธิงส์ ซีซั่น 3",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Stranger-Things-Season-3-2019-สเตรนเจอร์-ธิงส์-ซีซั่น-3.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/26de02ecd30de9ca16384d42/26de02ecd30de9ca16384d42438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Stranger Things Season 2 (2017) สเตรนเจอร์ ธิงส์ ซีซั่น 2",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Stranger-Things-Season-2-2017-สเตรนเจอร์-ธิงส์-ซีซั่น-2.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/1d8c107e3493fb8db2e809f0/1d8c107e3493fb8db2e809f0438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Stranger Things (2016) สเตรนเจอร์ ธิงส์",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Stranger-Things-2016-สเตรนเจอร์-ธิงส์.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/672b55c68005f20266d1d02a/672b55c68005f20266d1d02a438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "My Secret Santa (2025) เมื่อคุณแม่ปลอมเป็นซานตาคลอส",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/My-Secret-Santa-2025.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/9738f7f85455b389de0a5b6c/9738f7f85455b389de0a5b6c438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Troll 2 (2025) โทรลล์ 2",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Troll-2-2025.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/7cd4fe8d579ffb4b6c9e39c3/7cd4fe8d579ffb4b6c9e39c3438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Left Handed Girl (2025) เด็กมือซ้าย",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/Left-Handed-Girl-2025.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/133ea7a70bfba53cfb3d6528/133ea7a70bfba53cfb3d6528438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jingle Bell Heist (2025) โจรกรรมจิงเกิลเบล",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/Jingle-Bell-Heist-2025.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/8a4324f764b8904fadbd773b/8a4324f764b8904fadbd773b438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Train Dreams (2025) ทางรถไฟสายฝัน",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/Train-Dreams-2025-ทางรถไฟสายฝัน.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/5d4598f38fb668e728e5bd08/5d4598f38fb668e728e5bd08438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Flower Girl (2025) อลวนสาวกลีบหาย",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/Flower-Girl-2025-อลวนสาวกลีบหาย.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/bd9b4020097b88cff0c22f96/bd9b4020097b88cff0c22f96438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Follies (2025) วันหนักของคนหน่วง",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/The-Follies-2025-วันหนักของคนหน่วง.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/5a09c2393259219fdf9e55e2/5a09c2393259219fdf9e55e2438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Carman Family Deaths (2025) ปริศนาตระกูลคาร์แมน",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/The-Carman-Family-Deaths-2025-ปริศนาตระกูลคาร์แมน.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/6c5ace1c55ea5ffc2c53da85/6c5ace1c55ea5ffc2c53da85438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Champagne Problems (2025) แชมเปญรัก ปัญหาร้าย",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/Champagne-Problems-2025-แชมเปญรัก-ปัญหาร้าย.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/8afbb0668e395db4ee90b2d5/8afbb0668e395db4ee90b2d5438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Son of a Thousand Men (2025) ช่องว่างที่ขาดหาย สายใยที่ผูกพัน",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/The-Son-of-a-Thousand-Men-2025-ช่องว่างที่ขาดหาย-สายใยที่ผูกพัน.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/c443a32b92f54c8e0cd5ded3/c443a32b92f54c8e0cd5ded3438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jaat (2025) เดือดล้างอิทธิพล",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/06/Jaat-2025-เดือดล้างอิทธิพล.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/685c8eea9a229db770e2478a/685c8eea9a229db770e2478a438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kopitiam Days (2025) วิถีโกปี๊เตี่ยม",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/Kopitiam-Days-2025-วิถีโกปี๊เตี่ยม.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/e47063893b1d052bce889950/e47063893b1d052bce889950438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nadaaniyan (2025) หัวใจติดกับ รักผิดแผน",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/03/Nadaaniyan-2025-หัวใจติดกับ-รักผิดแผน.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/781db1a6860032f312213326/781db1a6860032f312213326438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "In Your Dreams (2025) ผจญภัยในฝัน",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/In-Your-Dreams-2025-ผจญภัยในฝัน.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/5272e3fe0b7722768099925b/5272e3fe0b7722768099925b438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/Lefter-The-Story-of-the-Ordinarius-2025-ตำนานฟุตบอลเหนือธรรมชาติ.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/a95695844661a201d4e1e07f/a95695844661a201d4e1e07f438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tee Yai Rerk Dao Jone (2025) ตี๋ใหญ่ ฤกษ์ ดาว โจร",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/Tee-Yai-Rerk-Dao-Jone-2025-ตี๋ใหญ่-ฤกษ์-ดาว-โจร.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/e46631dc76069334ee054bac/e46631dc76069334ee054bac438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Eloá the Hostage Live on TV (2025) คดีเอโลอา ไลฟ์สดเหตุจับตัวประกัน",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/Eloa-the-Hostage-Live-on-TV-2025-คดีเอโลอา-ไลฟ์สดเหตุจับตัวประกัน.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/91add2fd1dfbab9c535fcddf/91add2fd1dfbab9c535fcddf438.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
