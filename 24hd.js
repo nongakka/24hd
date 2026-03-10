@@ -12,7 +12,7 @@ const agent=new https.Agent({rejectUnauthorized:false})
 
 const DOMAIN="https://24-hdmovie.com"
 let COOKIE="wordpress_test_cookie=WP%20Cookie%20check"
-const TEST_MODE = false
+const TEST_MODE = true
 let progress={
 show:null,
 episodeIndex:0
@@ -701,6 +701,7 @@ await run()
 process.exit()
 
 })()
+
 
 
 
