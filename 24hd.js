@@ -373,8 +373,6 @@ console.log("WARMUP DONE")
 
 const html=await load(DOMAIN)
 console.log("HOME HTML LENGTH",html.length)
-console.log("HOME HTML SAMPLE")
-console.log(html.slice(0,1000))
 const $=cheerio.load(html)
 
 let cats=[]
@@ -431,16 +429,8 @@ try{
 const html=await load(url)
 
 console.log("HTML LENGTH",html.length)
-console.log("HTML SAMPLE")
-console.log(html.slice(0,1000))
 
 const $=cheerio.load(html)
-$("a").slice(0,20).each((i,el)=>{
-
-console.log("A TAG",$(el).attr("href"))
-
-})
-
 
 let found=0
 
@@ -545,10 +535,6 @@ console.log("SHOW",show)
 
 const html = await load(show)
 await new Promise(r=>setTimeout(r,2000))
-console.log("HTML CHECK NONCE")
-console.log(html.slice(0,2000))
-
-
 const nonce = extractNonce(html)
 console.log("NONCE",nonce)
 
@@ -729,6 +715,7 @@ await run()
 process.exit()
 
 })()
+
 
 
 
