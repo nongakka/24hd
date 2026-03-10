@@ -15,7 +15,7 @@ const agent=new https.Agent({rejectUnauthorized:false})
 
 const DOMAIN="https://24-hdmovie.com"
 let COOKIE="wordpress_test_cookie=WP%20Cookie%20check"
-const TEST_MODE = true
+const TEST_MODE = false
 let progress={
 show:null,
 episodeIndex:0
@@ -510,7 +510,7 @@ console.log("CATEGORY",group)
 
 jsonOutput[group]=[]
 
-const file="iptv_"+group+".m3u"
+const file="24-hdmovie_"+group+".m3u"
 
 if(!fs.existsSync(file)){
 fs.writeFileSync(file,"#EXTM3U\n\n")
@@ -729,6 +729,7 @@ await run()
 process.exit()
 
 })()
+
 
 
 
