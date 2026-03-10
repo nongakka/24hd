@@ -97,7 +97,7 @@ console.log("OPEN PAGE",url)
 
 await page.goto(url,{waitUntil:"networkidle2"})
 
-await new Promise(r => setTimeout(r,500))
+await new Promise(r => setTimeout(r,1500))
 
 const iframe = await page.evaluate(()=>{
 
@@ -120,12 +120,14 @@ return iframe
 
 async function load(url){
 
-return await cloudscraper.get({
-url:url,
-headers:{
-"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-}
+await page.goto(url,{
+  waitUntil:"domcontentloaded",
+  timeout:60000
 })
+
+const html = await page.content()
+
+return html
 
 }
 
@@ -510,12 +512,7 @@ try{
 
 console.log("SHOW",show)
 
-const html = await cloudscraper.get({
-url:show,
-headers:{
-"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36"
-}
-})
+const html = await load(show)
 
 console.log("HTML CHECK NONCE")
 console.log(html.slice(0,2000))
@@ -701,6 +698,7 @@ await run()
 process.exit()
 
 })()
+
 
 
 
