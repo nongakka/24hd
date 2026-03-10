@@ -135,7 +135,7 @@ waitUntil:"domcontentloaded",
 timeout:60000
 })
 
-await page.waitForTimeout(8000)
+await new Promise(r=>setTimeout(r,8000))
 
 let html = await page.content()
 
@@ -147,7 +147,7 @@ html.includes("รอสักครู่")
 
 console.log("CLOUDFLARE WAIT...")
 
-await page.waitForTimeout(10000)
+await new Promise(r=>setTimeout(r,10000))
 
 html = await page.content()
 
@@ -726,6 +726,7 @@ await run()
 process.exit()
 
 })()
+
 
 
 
