@@ -1,6 +1,9 @@
 process.env.NODE_TLS_REJECT_UNAUTHORIZED="0"
 
-const puppeteer = require("puppeteer")
+const puppeteer = require("puppeteer-extra")
+const StealthPlugin = require("puppeteer-extra-plugin-stealth")
+
+puppeteer.use(StealthPlugin())
 const cloudscraper=require("cloudscraper").defaults({
 jar:true
 })
@@ -105,7 +108,7 @@ console.log("OPEN PAGE",url)
 
 await page.goto(url,{waitUntil:"networkidle2"})
 
-await new Promise(r => setTimeout(r,3000))
+await new Promise(r => setTimeout(r,6000))
 
 const iframe = await page.evaluate(()=>{
 
@@ -411,15 +414,15 @@ return [...new Set(cats)]
 async function scanCategory(path){
 
 let shows=[]
-let page=1
+let pageNum=1
 
 while(true){
-if(TEST_MODE && page > 1){
+if(TEST_MODE && pageNum > 1){
 break
 }
-const url = page === 1
+const url = pageNum === 1
   ? DOMAIN + path
-  : DOMAIN + path + "page/" + page + "/"
+  : DOMAIN + path + "page/" + pageNum + "/"
 
 console.log("SCAN",url)
 
@@ -468,7 +471,7 @@ break
 
 }
 
-page++
+pageNum++
 
 }catch(e){
 
@@ -726,6 +729,7 @@ await run()
 process.exit()
 
 })()
+
 
 
 
