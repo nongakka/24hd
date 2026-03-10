@@ -84,13 +84,13 @@ args:[
 ]
 })
 
-page = await browser.newPage()
+await page.setViewport({width:1366,height:768})
 
 await page.setExtraHTTPHeaders({
 "accept-language":"th-TH,th;q=0.9,en;q=0.8"
 })
 await page.setUserAgent(
-"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
 )
 
 }
@@ -127,17 +127,26 @@ async function load(url){
 console.log("LOAD",url)
 
 await page.goto(url,{
-  waitUntil:"networkidle2",
-  timeout:60000
+waitUntil:"domcontentloaded",
+timeout:60000
 })
 
-await new Promise(r=>setTimeout(r,2000))
+await page.waitForTimeout(8000)
 
-const html = await page.content()
+let html = await page.content()
 
-if(html.includes("Just a moment")){
-  console.log("CLOUDFLARE DETECTED - WAIT")
-  await new Promise(r=>setTimeout(r,5000))
+if(
+html.includes("Just a moment") ||
+html.includes("challenge-platform") ||
+html.includes("รอสักครู่")
+){
+
+console.log("CLOUDFLARE WAIT...")
+
+await page.waitForTimeout(10000)
+
+html = await page.content()
+
 }
 
 return html
@@ -713,6 +722,7 @@ await run()
 process.exit()
 
 })()
+
 
 
 
