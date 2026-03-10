@@ -77,6 +77,7 @@ async function initBrowser(){
 
 browser = await puppeteer.launch({
 headless:true,
+executablePath:"/usr/bin/google-chrome",
 args:[
 "--no-sandbox",
 "--disable-setuid-sandbox",
@@ -84,11 +85,14 @@ args:[
 ]
 })
 
+page = await browser.newPage()
+
 await page.setViewport({width:1366,height:768})
 
 await page.setExtraHTTPHeaders({
 "accept-language":"th-TH,th;q=0.9,en;q=0.8"
 })
+
 await page.setUserAgent(
 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
 )
@@ -722,6 +726,7 @@ await run()
 process.exit()
 
 })()
+
 
 
 
