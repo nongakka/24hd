@@ -24,7 +24,10 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-
+      
+      - name: Install Chrome
+        run: npx puppeteer browsers install chrome
+      
       - name: Run scraper
         run: node 24hd.js
 
