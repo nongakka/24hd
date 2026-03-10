@@ -79,12 +79,16 @@ browser = await puppeteer.launch({
 headless:true,
 args:[
 "--no-sandbox",
-"--disable-setuid-sandbox"
+"--disable-setuid-sandbox",
+"--disable-dev-shm-usage"
 ]
 })
 
 page = await browser.newPage()
 
+await page.setExtraHTTPHeaders({
+"accept-language":"th-TH,th;q=0.9,en;q=0.8"
+})
 await page.setUserAgent(
 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 )
@@ -97,7 +101,7 @@ console.log("OPEN PAGE",url)
 
 await page.goto(url,{waitUntil:"networkidle2"})
 
-await new Promise(r => setTimeout(r,1500))
+await new Promise(r => setTimeout(r,3000))
 
 const iframe = await page.evaluate(()=>{
 
@@ -120,12 +124,21 @@ return iframe
 
 async function load(url){
 
+console.log("LOAD",url)
+
 await page.goto(url,{
-  waitUntil:"domcontentloaded",
+  waitUntil:"networkidle2",
   timeout:60000
 })
 
+await new Promise(r=>setTimeout(r,2000))
+
 const html = await page.content()
+
+if(html.includes("Just a moment")){
+  console.log("CLOUDFLARE DETECTED - WAIT")
+  await new Promise(r=>setTimeout(r,5000))
+}
 
 return html
 
@@ -513,7 +526,7 @@ try{
 console.log("SHOW",show)
 
 const html = await load(show)
-
+await new Promise(r=>setTimeout(r,2000))
 console.log("HTML CHECK NONCE")
 console.log(html.slice(0,2000))
 
@@ -698,6 +711,7 @@ await run()
 process.exit()
 
 })()
+
 
 
 
