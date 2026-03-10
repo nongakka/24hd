@@ -356,7 +356,9 @@ await load(DOMAIN)
 console.log("WARMUP DONE")
 
 const html=await load(DOMAIN)
-
+console.log("HOME HTML LENGTH",html.length)
+console.log("HOME HTML SAMPLE")
+console.log(html.slice(0,1000))
 const $=cheerio.load(html)
 
 let cats=[]
@@ -711,6 +713,7 @@ await run()
 process.exit()
 
 })()
+
 
 
 
