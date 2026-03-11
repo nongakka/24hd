@@ -1,425 +1,5 @@
 [
   {
-    "title": "Hamnet (2025) แฮมเน็ต",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/03/Hamnet-2025-แฮมเน็ต.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/db1c65ec7c78644833f771d7/db1c65ec7c78644833f771d7438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "A Knights War (2025)",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/03/A-Knights-War-2025.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/69b2a54c5c01106e53b4fcb3/69b2a54c5c01106e53b4fcb3438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Salvageland (2025) ผู้พิทักษ์แดนเดือด",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/03/Salvageland-2025-ผู้พิทักษ์แดนเดือด.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/493d7bbd5ddb26df7cabe58a/493d7bbd5ddb26df7cabe58a438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Skinwalker Island (2025)",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Skinwalker-Island-2025.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/016f6b917eca09bc4d2e3f0f/016f6b917eca09bc4d2e3f0f438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Fish Fists and Ambergris (2025) ปลา กำปั้น อำพันอลวน",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/03/Fish-Fists-and-Ambergris-2025-ปลา-กำปั้น-อำพันอลวน.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/1afb16326c3f136c52444156/1afb16326c3f136c52444156438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "MY BOO 2 (2025) อนงค์ 2..สามสี่ชาติ",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/03/MY-BOO-2-2025-อนงค์-2.สามสี่ชาติ.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/59e4667d2ccd213a19c8dbb2/59e4667d2ccd213a19c8dbb2438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "The Last Night (2025) ตามล่าศพสยอง คืนสุดท้าย",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/03/The-Last-Night-2025-ตามล่าศพสยอง-คืนสุดท้าย.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/b0ec071b7722d442fb232c50/b0ec071b7722d442fb232c50438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "About a Place in the Kinki Region (2025) อาถรรพ์คิงคิ",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/03/About-a-Place-in-the-Kinki-Region-2025-อาถรรพ์คิงคิ.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/6335fb2237dbcdcebee81723/6335fb2237dbcdcebee81723438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Honey Don’t! (2025) ฮันนี่…สวยสืบแส่",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Honey-Dont-2025-ฮันนี่…สวยสืบแส่.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/f033ca8b8738ac2ebb141a07/f033ca8b8738ac2ebb141a07438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Metro in Dino (2025) หลากชีวิตวันนี้... ในเมืองใหญ่",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Metro-in-Dino-2025-หลากชีวิตวันนี้.-ในเมืองใหญ่.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/e3bde53400445b64060eafc6/e3bde53400445b64060eafc6438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Dog 51 (2025)",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Dog-51-2025.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/cea78d245a070718aee90d85/cea78d245a070718aee90d85438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "H Is For Hawk (2025)",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/H-Is-For-Hawk-2025.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/93a5e5ed687693c0d7548825/93a5e5ed687693c0d7548825438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Qifarah (2025)",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Qifarah-2025.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/aebd1c979daba03479699594/aebd1c979daba03479699594438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "WANTED (2025) ประกาศจับเจียงหู",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/05/WANTED-2025-ประกาศจับเจียงหู.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/3bbbf63a4364445c843538bf/3bbbf63a4364445c843538bf438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Island Python (2025) เกาะงูยักษ์ประหลาด",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/02/Island-Python-2025-เกาะงูยักษ์ประหลาด-1.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/6b0a041e4e3657091bf28de7/6b0a041e4e3657091bf28de7438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "The Choral (2025)",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/The-Choral-2025.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/26e48e0c467c4db08e6ffde4/26e48e0c467c4db08e6ffde4438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Snake (2025) นางพญาอสรพิษ",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/06/Snake-2025-นางพญาอสรพิษ.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/67fc7fb609de97dc03dc3cc6/67fc7fb609de97dc03dc3cc6438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Dongji Rescue (2025) ตงจี๋ เรสคิว พลิกนรกกู้",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Dongji-Rescue-2025-ตงจี๋-เรสคิว-พลิกนรกกู้.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/ed8084587fa53e9cc5cf59c1/ed8084587fa53e9cc5cf59c1438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Die My Love (2025)",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Die-My-Love-2025.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/91b9ca43b9140195deeeb4f6/91b9ca43b9140195deeeb4f6438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Nobody 2 (2025) คนธรรมดานรกเรียกพี่ 2",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/08/Nobody-2-2025-คนธรรมดานรกเรียกพี่-2.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/d8241e97abbbb6fbd3f0c240/d8241e97abbbb6fbd3f0c240438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Night of the Reaper (2025)",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Night-of-the-Reaper-2025.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/5d8b23e61d21d61337fa0506/5d8b23e61d21d61337fa0506438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": " Close Ur Kopitiam (2025)",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Close-Ur-Kopitiam-2025.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/2819d163156b2066a1c2bc57/2819d163156b2066a1c2bc57438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "An Endless Wedding (2025)",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/An-Endless-Wedding-2025.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/dbf212fec19f9af29ab2339c/dbf212fec19f9af29ab2339c438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "The Carpenters Son (2025)",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/The-Carpenters-Son-2025.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/105875b73beee0bb845e63d2/105875b73beee0bb845e63d2438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Badak (2025) บาดัก",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Badak-2025-บาดัก.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/819732c9b0cab85a90b1e32a/819732c9b0cab85a90b1e32a438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Mercy (2025) 90 นาทีสั่งตาย",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Mercy-2025-90-นาทีสั่งตาย.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/e446d31d15fb844c70565297/e446d31d15fb844c70565297438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Sound of Silence (2025)",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Sound-of-Silence-2025.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/caf8ee411a254f77f41c508f/caf8ee411a254f77f41c508f438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Ella McCay (2025) เอลล่า แมคเคย์",
-    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Ella-McCay-2025-เอลล่า-แมคเคย์.png",
-    "episodes": [
-      {
-        "name": "EP1",
-        "servers": [
-          {
-            "name": "24-hdmovie",
-            "url": "https://main.24playerhd.com/m3u8/a9e939225ba2791fa41af3d2/a9e939225ba2791fa41af3d2438.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "Stay (2025)",
     "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Stay-2025.png",
     "episodes": [
@@ -429,6 +9,291 @@
           {
             "name": "24-hdmovie",
             "url": "https://main.24playerhd.com/m3u8/67e34a6b419150f5e530baa6/67e34a6b419150f5e530baa6438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "12 Hours of Terror (2025) สายน้ำลับ 12 ชั่วโมงหลอน",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/04/12-Hours-of-Terror-2025-สายน้ำลับ-12-ชั่วโมงหลอน.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/b339ab68faca33739d77d1fd/b339ab68faca33739d77d1fd438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Demon Hunter (2025) นักล่าวิญญาณ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/05/The-Demon-Hunter-2025-นักล่าวิญญาณ.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/54745422f30442e59ba59263/54745422f30442e59ba59263438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Eddington (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Eddington-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/a8a02def1bbf4a7b0ada62c8/a8a02def1bbf4a7b0ada62c8438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Predator Badlands (2025) พรีเดเตอร์ แดนเถื่อน",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/Predator-Badlands-2025-พรีเดเตอร์-แดนเถื่อน.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/3e61b296e4db484d3ed2a51f/3e61b296e4db484d3ed2a51f438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Gabby's Dollhouse The Movie (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Gabbys-Dollhouse-The-Movie-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/86c97ef35f70eae2d40edc7c/86c97ef35f70eae2d40edc7c438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "From the World of John Wick Ballerina (2025) จักรวาลของ จอห์น วิค บัลเลรินา แค้นกว่านรก",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/06/From-the-World-of-John-Wick-Ballerina-2025-จักรวาลของ-จอห์น-วิค-บัลเลรินา-แค้นกว่านรก.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/65955b82543e1803cd3134b7/65955b82543e1803cd3134b7438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The SpongeBob Movie Search for SquarePants (2025) เดอะ สพันจ์บ็อบ มูฟวี่ ภารกิจตามหาสพันจ์บ็อบ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/The-SpongeBob-Movie-Search-for-SquarePants-2025-เดอะ-สพันจ์บ็อบ-มูฟวี่-ภารกิจตามหาสพันจ์บ็อบ.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/c15d938f7e7f19e5966a814c/c15d938f7e7f19e5966a814c438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Marty Supreme (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Marty-Supreme-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/871f77c3e281b847e316d5ce/871f77c3e281b847e316d5ce438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Henry Danger The Movie (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/01/Henry-Danger-The-Movie-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/c8534b6fa3a063c90a731e2f/c8534b6fa3a063c90a731e2f438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "In the Lost Lands (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/04/In-the-Lost-Lands-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/0b24856cc1bdaf665cb058a6/0b24856cc1bdaf665cb058a6438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Flight Risk (2025) นรกยึดไฟลต์",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/01/Flight-Risk-2025-นรกยึดไฟลต์.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/e815e583a3dcd9b4acacc59a/e815e583a3dcd9b4acacc59a438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Even if This Love Disappears from the World Tonight (2025) คืนฝันก่อนฉันลืมเธอ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Even-if-This-Love-Disappears-from-the-World-Tonight-2025-คืนฝันก่อนฉันลืมเธอ.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/2b778f050b5c464e12300b90/2b778f050b5c464e12300b90438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "A Woman Called Mother (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/A-Woman-Called-Mother-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/b54e2deb3c53b97925f32b6e/b54e2deb3c53b97925f32b6e438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tu Meri Main Tera Main Tera Tu Meri (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Tu-Meri-Main-Tera-Main-Tera-Tu-Meri-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/86040f45ba87ece39837ea46/86040f45ba87ece39837ea46438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rental Family (2025) ครอบครัวให้เช่า",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Rental-Family-2025-ครอบครัวให้เช่า.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/c95fbcd2f163904a19e1912c/c95fbcd2f163904a19e1912c438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "My Daughter Is a Zombie (2025) ลูกสาวผมเป็นซอมบี้",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/My-Daughter-Is-a-Zombie-2025-ลูกสาวผมเป็นซอมบี้.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/49fe80f16c644353cfcc7cb0/49fe80f16c644353cfcc7cb0438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Housemaid (2025) ความลับแม่บ้านร้าย",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/The-Housemaid-2025-ความลับแม่บ้านร้าย.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/cca5c4c76794fa9273ee14e6/cca5c4c76794fa9273ee14e6438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Death Whisperer 3 (2025) ธี่หยด 3",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/10/Death-Whisperer-3-2025-ธี่หยด-3.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/abd82a71ec04762c078c4432/abd82a71ec04762c078c4432438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "My Amish Double Life (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/My-Amish-Double-Life-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/92306af2ee13a1305c6145f6/92306af2ee13a1305c6145f6438.m3u8"
           }
         ]
       }
