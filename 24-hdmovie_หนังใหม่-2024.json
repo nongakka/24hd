@@ -1,0 +1,62 @@
+[
+  {
+    "title": "My Boo (2024) อนงค์",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2024/10/อนงค์-My-Boo-2024.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/6e363837ea8a7bdd61c97cb9/6e363837ea8a7bdd61c97cb9438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fangs & Fury (2024) สงครามหมาป่า",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/02/Fangs-Fury-2024-สงครามหมาป่า.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/f3f888d286ef4720cd67b75b/f3f888d286ef4720cd67b75b438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "King Ivory (2024)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/King-Ivory-2024.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/8dc5df20bcbd5b4f35489d03/8dc5df20bcbd5b4f35489d03438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Detained (2024)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Detained-2024.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/edf48b59423304542cc413c2/edf48b59423304542cc413c2438.m3u8"
+          }
+        ]
+      }
+    ]
+  }
+]
