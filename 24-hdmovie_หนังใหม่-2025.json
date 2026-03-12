@@ -5098,5 +5098,50 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Savior Of The World (2025) ปรมาจารย์สวรรค์อสูร",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/01/The-Savior-Of-The-World-2025-ปรมาจารย์สวรรค์อสูร-1.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/26e8b3a1499d88f3f5062b7e/26e8b3a1499d88f3f5062b7e438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Evil Of The Rat (2025) ราชาปีศาจหนู",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/01/Evil-Of-The-Rat-2025-ราชาปีศาจหนู-1.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/0774b5e77389f5eaae5061e0/0774b5e77389f5eaae5061e0438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ad Vitam (2025) ปฏิบัติการเพื่อชีวิต",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/01/Ad-Vitam-2025-ปฏิบัติการเพื่อชีวิต.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/b033dd41b3e53faa460dc71e/b033dd41b3e53faa460dc71e438.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
