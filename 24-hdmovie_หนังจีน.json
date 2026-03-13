@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Desert Lone Hero (2025) ฮีโร่ทะเลทราย",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/04/Desert-Lone-Hero-2025-ฮีโร่ทะเลทราย.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/7899b69269934af39da1944f/7899b69269934af39da1944f438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Blind Murder (2025) นักฆ่าตาบอด",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/05/Blind-Murder-2025-นักฆ่าตาบอด.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/be427d25bb38cfe901b57a67/be427d25bb38cfe901b57a67438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Shark Evil (2023) ฉลามเดือด",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2023/09/Shark-Evil-2023-ฉลามเดือด.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/0b7724ef97edf162b718ff09/0b7724ef97edf162b718ff09438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Under Current (2026) ใต้เงามรณะ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/03/Under-Current-2026-ใต้เงามรณะ.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/66df2220ebf1bc9a7a0ec848/66df2220ebf1bc9a7a0ec848438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Detective Dee Buddha's Wrath (2026) ตี๋เหรินเจี๋ย เจดีย์สู่สวรรค์",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/03/Detective-Dee-Buddhas-Wrath-2026-ตี๋เหรินเจี๋ย-เจดีย์สู่สวรรค์.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/589bd30f79ff9f83df221f3d/589bd30f79ff9f83df221f3d438.m3u8"
+          }
+        ]
+      }
+    ]
+  }
+]
