@@ -73,5 +73,305 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Dual Heroes Strike (2026) สองฮีโร่บุกทะลวง",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/03/The-Dual-Heroes-Strike-2026-สองฮีโร่บุกทะลวง.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/0f32888ebb681590a47d5f4e/0f32888ebb681590a47d5f4e438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fish Fists and Ambergris (2025) ปลา กำปั้น อำพันอลวน",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/03/Fish-Fists-and-Ambergris-2025-ปลา-กำปั้น-อำพันอลวน.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/1afb16326c3f136c52444156/1afb16326c3f136c52444156438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Angry Scalper (2021) โทสะคนเถื่อน",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/03/Angry-Scalper-2021-โทสะคนเถื่อน.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/78ef6b8578d9bfe31fe391e6/78ef6b8578d9bfe31fe391e6438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ginseng King (2026) ตำนานนักล่าภูผาอาถรรพ์",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Ginseng-King-2026-ตำนานนักล่าภูผาอาถรรพ์.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/f7aa33a53b1ff555089dc7ed/f7aa33a53b1ff555089dc7ed438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Catch The Killer (2026) ปฏิบัติการณ์ล่าฆาตกร",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Catch-The-Killer-2026-ปฏิบัติการณ์ล่าฆาตกร.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/ddfd63708dc64d44594ccec7/ddfd63708dc64d44594ccec7438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fangs & Fury (2024) สงครามหมาป่า",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/02/Fangs-Fury-2024-สงครามหมาป่า.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/f3f888d286ef4720cd67b75b/f3f888d286ef4720cd67b75b438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "WANTED (2025) ประกาศจับเจียงหู",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/05/WANTED-2025-ประกาศจับเจียงหู.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/3bbbf63a4364445c843538bf/3bbbf63a4364445c843538bf438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Island Python (2025) เกาะงูยักษ์ประหลาด",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/02/Island-Python-2025-เกาะงูยักษ์ประหลาด-1.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/6b0a041e4e3657091bf28de7/6b0a041e4e3657091bf28de7438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Back to the Past (2026) เจาะเวลาหาจิ๋นซี เดอะมูฟวี่",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Back-to-the-Past-2026-เจาะเวลาหาจิ๋นซี-เดอะมูฟวี่.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/60666f9f29092692e0409ef7/60666f9f29092692e0409ef7438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Spider Fairy (2026) เซียนแมงมุม",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Spider-Fairy-2026-เซียนแมงมุม.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/cd2dd9ae68580a1ae2459f58/cd2dd9ae68580a1ae2459f58438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fury In The Shadows (2026) คดีปล้นโหดระห่ำ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Fury-In-The-Shadows-2026-คดีปล้นโหดระห่ำ.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/29632a0dd34ca90a4d0e14a0/29632a0dd34ca90a4d0e14a0438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Snake (2025) นางพญาอสรพิษ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/06/Snake-2025-นางพญาอสรพิษ.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/67fc7fb609de97dc03dc3cc6/67fc7fb609de97dc03dc3cc6438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dongji Rescue (2025) ตงจี๋ เรสคิว พลิกนรกกู้",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Dongji-Rescue-2025-ตงจี๋-เรสคิว-พลิกนรกกู้.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/ed8084587fa53e9cc5cf59c1/ed8084587fa53e9cc5cf59c1438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": " Close Ur Kopitiam (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Close-Ur-Kopitiam-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/2819d163156b2066a1c2bc57/2819d163156b2066a1c2bc57438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sound of Silence (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Sound-of-Silence-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/caf8ee411a254f77f41c508f/caf8ee411a254f77f41c508f438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Special Police and Snake Revenge (2026) หายนะอสรพิษร้าย",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Special-Police-and-Snake-Revenge-2026-หายนะอสรพิษร้าย.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/51d5741b08a25abbf8cbbb17/51d5741b08a25abbf8cbbb17438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Strange things in Western Hunan (2023) คดีลึกลับเซียงซี",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2023/10/Strange-things-in-Western-Hunan-2023-คดีลึกลับเซียงซี.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/5dfa69c241cc1e89774be75b/5dfa69c241cc1e89774be75b438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "12 Hours of Terror (2025) สายน้ำลับ 12 ชั่วโมงหลอน",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/04/12-Hours-of-Terror-2025-สายน้ำลับ-12-ชั่วโมงหลอน.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/b339ab68faca33739d77d1fd/b339ab68faca33739d77d1fd438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Demon Hunter (2025) นักล่าวิญญาณ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/05/The-Demon-Hunter-2025-นักล่าวิญญาณ.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/54745422f30442e59ba59263/54745422f30442e59ba59263438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cursed Village (2026) หมู่บ้านนางต้องสาป",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/02/Cursed-Village-2026-หมู่บ้านนางต้องสาป.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/319546e73978887b1bd4b5af/319546e73978887b1bd4b5af438.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
