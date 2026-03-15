@@ -8098,5 +8098,80 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Rocket Angels (2022) บั้งไฟสไลเดอร์",
+    "image": "https://www.24-hdmovie.com/wp-content/uploads/2022/09/The-Rocket-Angels-2022-บั้งไฟสไลเดอร์.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/2f1935684b76032a72d1346a/2f1935684b76032a72d1346a438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Sandman (2022) เดอะ แซนด์แมน",
+    "image": "https://www.24-hdmovie.com/wp-content/uploads/2022/09/The-Sandman-2022-เดอะ-แซนด์แมน.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/1ed7aa92691976823eb5b01d/1ed7aa92691976823eb5b01d438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "I Came By (2022) แวะมาในเงามืด",
+    "image": "https://www.24-hdmovie.com/wp-content/uploads/2022/09/I-Came-By-2022-แวะมาในเงามืด.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/b9a9a56e08521f59f49f14b0/b9a9a56e08521f59f49f14b0438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fullmetal Alchemist The Revenge Of Scar (2022) แขนกลคนแปรธาตุ สการ์ชำระแค้น",
+    "image": "https://www.24-hdmovie.com/wp-content/uploads/2022/08/Fullmetal-Alchemist-The-Revenge-Of-Scar-2022-แขนกลคนแปรธาตุ-สการ์ชำระแค้น.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/7fc3f0a5a414d9d93c353853/7fc3f0a5a414d9d93c353853438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "FullMetal Alchemist (2017) แขนกลคนแปรธาตุ",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2022/08/FullMetal-Alchemist-2017.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/61f44d37b1883ab8e4a91211/61f44d37b1883ab8e4a91211438.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
