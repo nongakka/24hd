@@ -1,4 +1,4 @@
-name: Movie Scraper
+name: 24HD
 
 on:
   workflow_dispatch:
