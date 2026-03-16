@@ -88,5 +88,305 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Black Storm (2024) พายุทมิฬ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2024/10/Black-Storm-พายุทมิฬ-2024.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/c4bcfeb718c48db8e2c64d9e/c4bcfeb718c48db8e2c64d9e438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Strange Darling (2024) รัก ลวง ฆ่า",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2024/09/Strange-Darling-รัก-ลวง-ฆ่า-2024.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/7503cc47719e75530b2f96cb/7503cc47719e75530b2f96cb438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Curbing Violence (2024) ปฏิบัติการช่วยเธอจากนรก",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2024/07/Curbing-Violence-2024-ปฏิบัติการช่วยเธอจากนรก-1.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/2b29add5a2ec499b9c2798a8/2b29add5a2ec499b9c2798a8438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hard Guy Sniper (2024) มือปืนคนแกร่ง",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2024/07/Hard-Guy-Sniper-2024-มือปืนคนแกร่ง-1.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/70f80d57da8a676e86d424e1/70f80d57da8a676e86d424e1438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Land of Women (2024) ในแดนราชินี",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2024/02/The-Land-of-Women-2024-ในแดนราชินี.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/557821519df5c205b8d55ff0/557821519df5c205b8d55ff0438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fee Nak (2024) ฝีนาค",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2024/12/ฝีนาค-Fee-Nak-2024.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/776b446405302b9d8ca39697/776b446405302b9d8ca39697438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Believers (2024) สาธุ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2024/03/The-Believers-2024-สาธุ.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/b9c3ae9b01e1b7038fd10158/b9c3ae9b01e1b7038fd10158438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "One Win (2024)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/One-Win-2024.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/f47c2d21dbc1e2ae8b850bf2/f47c2d21dbc1e2ae8b850bf2438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Black Dog (2024) สี่ขาหัวใจไม่ดำ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/05/Black-Dog-2024-สี่ขาหัวใจไม่ดำ.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/22ddbe939f4aaa8de193cb23/22ddbe939f4aaa8de193cb23438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Killer (2024) สวยกล้าบ้าระห่ำ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2024/09/The-Killer-สวยกล้าบ้าระห่ำ-2024.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/5df4a10b4bfb4d087030ba3b/5df4a10b4bfb4d087030ba3b438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "A Strange House (2024)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/A-Strange-House-2024.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/dd1717822fe6e8c1b911b38b/dd1717822fe6e8c1b911b38b438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Harbin (2024)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/04/Harbin-2024.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/f0541edf7a808cbaaabc9a04/f0541edf7a808cbaaabc9a04438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Imaginary (2024) ตุ๊กตาซาตาน",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2024/04/Imaginary-2024-ตุ๊กตาซาตาน.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/2e19939fcd54e950379f23bd/2e19939fcd54e950379f23bd438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Winter Spring Summer or Fall (2024)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/10/Winter-Spring-Summer-or-Fall-2024.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/de2959fab114ef333141afd1/de2959fab114ef333141afd1438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rob Peace (2024) ร็อบ พีซ ชีวิตลิขิตฝัน",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/10/Rob-Peace-2024-ร็อบ-พีซ-ชีวิตลิขิตฝัน.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/5e57baecc167324b679f807e/5e57baecc167324b679f807e438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ulajh (2024) กับดักทมิฬ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/10/Ulajh-2024-กับดักทมิฬ.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/790e74c11bb4fcc8342ec4ef/790e74c11bb4fcc8342ec4ef438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Your Fault (2024) คำขอโทษ 2",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2024/12/Your-Fault-2024-คำขอโทษ-2.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/4556bd05c3c896411f098461/4556bd05c3c896411f098461438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sniper 2 (2024) สไนเปอร์ 2",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/10/Sniper-2-2024-สไนเปอร์-2.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/48c41bc5226a839b35d86f77/48c41bc5226a839b35d86f77438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Thangalaan (2024) แผ่นดินทอง",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/08/Thangalaan-2024-แผ่นดินทอง.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/3b2779bd5c15d4e9c3eff8d2/3b2779bd5c15d4e9c3eff8d2438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Never Let Go (2024) ผูกเป็น หลุดตาย",
+    "image": "https://www.24-hdmovie.com/wp-content/uploads/2024/09/Never-Let-Go-ผูกเป็น-หลุดตาย-2024.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/006a872aff0e36eada6b12cf/006a872aff0e36eada6b12cf438.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
