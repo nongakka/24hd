@@ -2893,5 +2893,305 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Unli Pop (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Unli-Pop-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/3202d26c921ada5f53b3deed/3202d26c921ada5f53b3deed438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sorority (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Sorority-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/e62e9f08406c9c5cb8cafb24/e62e9f08406c9c5cb8cafb24438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mayumi (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Mayumi-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/0af5f7b8d92e2837b0304c31/0af5f7b8d92e2837b0304c31438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Maalikaya (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Maalikaya-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/29e43e4bf77016deb900d4c2/29e43e4bf77016deb900d4c2438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Fakenapping (2025) ลักหลอกๆ ไม่หยอกเล่น",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Fakenapping-2025ลักหลอกๆ-ไม่หยอกเล่น.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/fa5bb2b41b6b4c5311159e5c/fa5bb2b41b6b4c5311159e5c438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lost in the Spotlight (2025) พระเอกหมดท่า",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Lost-in-the-Spotlight-2025-พระเอกหมดท่า.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/60af91a0d5c759d15f295ae8/60af91a0d5c759d15f295ae8438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Primitive War (2025) สงครามโลกล้านปี",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/Primitive-War-2025-สงครามโลกล้านปี.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/0d2f26efee6019a725022361/0d2f26efee6019a725022361438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Merv (2025) เมิร์ฟ สี่ขาสื่อหัวใจ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Merv-2025-เมิร์ฟ-สี่ขาสื่อหัวใจ.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/b944a83bce1177d564b1b536/b944a83bce1177d564b1b536438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Omniscient Reader The Prophecy (2025) อ่านชะตาวันสิ้นโลก",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/08/Omniscient-Reader-The-Prophecy-2025-อ่านชะตาวันสิ้นโลก.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/060bdda700b140cb284522ac/060bdda700b140cb284522ac438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Holy Night Demon Hunters (2025) ฅนต่อยผี",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/05/Holy-Night-Demon-Hunters-2025-ฅนต่อยผี.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/0b385370bbf2c9f998bfb8c7/0b385370bbf2c9f998bfb8c7438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Madulas (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Madulas-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/c0a50b0139d1705e031d876e/c0a50b0139d1705e031d876e438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kapag Tumayo Ang Testigo (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Kapag-Tumayo-Ang-Testigo-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/9dca5e26903fa9139453b070/9dca5e26903fa9139453b070438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Under the Stars (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Under-the-Stars-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/8d888de64ac1990a5ae9f793/8d888de64ac1990a5ae9f793438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hunting Jessica Brok (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Hunting-Jessica-Brok-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/b50ed6aad3770ce1798b3232/b50ed6aad3770ce1798b3232438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Conjuring Last Rites (2025) เดอะ คอนเจอริ่ง คนเรียกผี พิธีกรรมครั้งสุดท้าย",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/09/The-Conjuring-Last-Rites-2025-เดอะ-คอนเจอริ่ง-คนเรียกผี-พิธีกรรมครั้งสุดท้าย.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/13b8f16535d7c9f44d1bbdcd/13b8f16535d7c9f44d1bbdcd438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Green Snake The Origin (2025) กำเนิดตำนานงูเขียว",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/02/Green-Snake-The-Origin-2025-กำเนิดตำนานงูเขียว-1.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/be7da9b952fb1f296d04459f/be7da9b952fb1f296d04459f438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Family Plan 2 (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/The-Family-Plan-2-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/67ba949b725c5dcee5bf8ccc/67ba949b725c5dcee5bf8ccc438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The First Snow of Fraggle Rock (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/The-First-Snow-of-Fraggle-Rock-2025.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/482271b2e8a1df33321b84b8/482271b2e8a1df33321b84b8438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jay Kelly (2025) เจย์ เคลลี",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Jay-Kelly-2025-เจย์-เคลลี.png",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/f13030c667f205c6ce5443d2/f13030c667f205c6ce5443d2438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Stephen (2025) สตีเฟน พิพากษาฆาตกร",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Stephen-2025.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/f6ec90c2cef870a20c12691c/f6ec90c2cef870a20c12691c438.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
