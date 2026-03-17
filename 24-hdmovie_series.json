@@ -2998,5 +2998,20 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Sandman (2022) เดอะ แซนด์แมน",
+    "image": "https://www.24-hdmovie.com/wp-content/uploads/2022/09/The-Sandman-2022-เดอะ-แซนด์แมน.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/1ed7aa92691976823eb5b01d/1ed7aa92691976823eb5b01d438.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
