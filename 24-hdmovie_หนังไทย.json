@@ -5998,5 +5998,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Yam Yasothorn 3 (2013) แหยม ยโสธร 3",
+    "image": "https://www.24-hdmovie.com/wp-content/uploads/2022/09/Yam-Yasothorn-3-2013-แหยม-ยโสธร-3.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/179cd062fac5e1f19f29138f/179cd062fac5e1f19f29138f438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Yam Yasothorn 2 (2009) แหยม ยโสธร 2",
+    "image": "https://www.24-hdmovie.com/wp-content/uploads/2022/09/Yam-Yasothorn-2-2009-แหยม-ยโสธร-2.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/9cd4a9af08cfca26ea360b86/9cd4a9af08cfca26ea360b86438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Yam Yasothorn 1 (2005) แหยม ยโสธร 1",
+    "image": "https://www.24-hdmovie.com/wp-content/uploads/2022/09/Yam-Yasothorn-1-2005-แหยม-ยโสธร-1.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/26954a9ea6a2f5bd95e1c85e/26954a9ea6a2f5bd95e1c85e438.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "SLR (2022) กล้อง ติด ตาย",
+    "image": "https://www.24-hdmovie.com/wp-content/uploads/2022/09/SLR-2022-กล้อง-ติด-ตาย.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "24-hdmovie",
+            "url": "https://main.24playerhd.com/m3u8/15dff3f79f2e6208abf76b03/15dff3f79f2e6208abf76b03438.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
