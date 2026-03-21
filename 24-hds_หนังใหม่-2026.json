@@ -1602,5 +1602,107 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Taiping Zhen Strange Tales (2026) เรื่องเล่าลึกลับตำบลไท่ผิง",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Taiping-Zhen-Strange-Tales-2026-เรื่องเล่าลึกลับตำบลไท่ผิง.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ca1be2749ea94a14989c62ca/7782.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "People We Meet on Vacation (2026) เราพบกัน ณ วันพักใจ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/People-We-Meet-on-Vacation-2026-เราพบกัน-ณ-วันพักใจ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/a10e25e10c58f7c82fbea966/1922.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c4c52d2d939c070ab50e368e/7969.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Di Renjie of Extraordinary Flowers On The Faramita (2026) ตี๋เหรินเจี๋ย ดอกพลับพลึงแดนพิศวง",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Di-Renjie-of-Extraordinary-Flowers-On-The-Faramita-2026-ตี๋เหรินเจี๋ย-ดอกพลับพลึงแดนพิศวง.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/dada966bdc9c457287fc35fb/2977.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Breast Friends Forever (2026)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Breast-Friends-Forever-2026.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/a5042c5443180ee04054b1f0/6675.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "100 Meters (2025) 100 เมตร",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/100-Meters-2025-100-เมตร.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/286abb643dd8fa56fb4ea513/6034.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/9f2b6f0eb683b6d63ad9d052/4842.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Follow My Voice (2025) ฝากใจให้เสียงนำทาง",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Follow-My-Voice-2025-ฝากใจให้เสียงนำทาง.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/3986c6cf2f3a052a721b294a/3838.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/7cc8b1a6c0c5916d4a389e32/7668.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
