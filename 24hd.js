@@ -15,7 +15,7 @@ const agent=new https.Agent({rejectUnauthorized:false})
 
 const DOMAIN="https://www.24-hds.com"
 let COOKIE="wordpress_test_cookie=WP%20Cookie%20check"
-const TEST_MODE = true   //false  true
+const TEST_MODE = false   //false  true
 let progress={
 show:null,
 episodeIndex:0
