@@ -938,5 +938,317 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Kirot (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Kirot-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b13c031eab235e67d8fe9d31/5066.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hiram (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Hiram-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c9ced8554301cdf7ab5b69de/1086.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nak Loves Mak Sooo Much! (2025) นากรักมาก ม๊ากมาก",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Nak-Loves-Mak-Sooo-Much-2025-นากรักมาก-ม๊ากมาก.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6c339de755ba0da8ce2a546b/2651.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Purge the World of Evil (2025) พิฆาตเงาชั่ว",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Purge-the-World-of-Evil-2025-พิฆาตเงาชั่ว.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/2d30cfc7b1ccd88a4eeabe9d/5753.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Magik Rompak (2025) โจรกรรมมายากล",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Magik-Rompak-2025-โจรกรรมมายากล.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/035df811070dec7faa21c289/3253.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bayo (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Bayo-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/516a9924c05c9e3d732e48c6/1041.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Delusion (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Delusion-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/5f48f7cf2190aeda3eaf9753/1501.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bleeding Tiger Resolution (2025) หลั่งเลือดพยัคฆ์ ปัจฉิมบทชำระแค้น",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Bleeding-Tiger-Resolution-2025-หลั่งเลือดพยัคฆ์-ปัจฉิมบทชำระแค้น.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/5394940819df9d19a2b459a7/9065.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "731 Evil Unbound (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/731-Evil-Unbound-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b6566aa8b7815ad6f9004643/8901.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Demon Slayer Kimetsu no Yaiba Infinity Castle (2025) ดาบพิฆาตอสูร ภาคปราสาทไร้ขอบเขต",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/08/Demon-Slayer-Kimetsu-no-Yaiba-Infinity-Castle-2025-ดาบพิฆาตอสูร-ภาคปราสาทไร้ขอบเขต.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/2b771028c7a47aaa066c7796/8099.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/68195b36b80a2d35a9498825/3949.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Go For Grandma (2025) ยายทราบแล้วเปลี่ยน",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Go-For-Grandma-2025-ยายทราบแล้วเปลี่ยน.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/84e4ded6b6cf44a54f8f7de0/5579.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Wicked For Good (2025) วิคเค็ด ภาค 2",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/12/Wicked-For-Good-2025.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/bebe6dda8be5d6b46f18b798/4542.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/0448e0df0bf82eabbb4f5a6a/4480.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Good Boy (2025) มะหมาเห็นผี",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/10/Good-Boy-2025-มะหมาเห็นผี.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/e7714bf094174b6966ceba6b/2558.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "My Beloved Stranger (2025) รักแรก แปลกหน้า",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/My-Beloved-Stranger-2025-รักแรก-แปลกหน้า.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/d934fcc86e3182dc3682f5f2/4760.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Sixth Robber (2025) นักปล้นคนที่หก",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/The-Sixth-Robber-2025-นักปล้นคนที่หก.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/f17fb487361a94b833966595/2130.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "No Other Choice (2025) งานนี้..ฆ่าเอา",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/No-Other-Choice-2025-งานนี้.ฆ่าเอา.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/cb8b3758bbc703a6311d09ae/1942.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Wildcat (2025) ไวลด์แคท สวยต้องปล้น",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Wildcat-2025-ไวลด์แคท-สวยต้องปล้น.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/8f588dc6d0795320135c6f88/6612.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nuremberg (2025)",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Nuremberg-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/6b62f3305960248d26984c60/8249.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Memori (2025) ความทรงจำ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Memori-2025-ความทรงจำ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/85483952326983d1bc839add/7578.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tron Ares (2025) ทรอน แอรีส",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/10/Tron-Ares-2025-ทรอน-แอรีส.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/645abf56072d4cc3e89ebaff/9885.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/d3be27b7ac40f10872c88f7d/2651.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
