@@ -3526,5 +3526,341 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Quilters (2024) ช่างเย็บผ้า",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/The-Quilters-2024-ช่างเย็บผ้า.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/45f5c9394ab0f2ae1369ffc7/6024.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "C4 Love (2024) ชื่นรัก ชื่นหัวใจ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/C4-Love-2024-ชื่นรัก-ชื่นหัวใจ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/a12ffe156c0e45f0c3a8ea72/8937.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Haunted Apartment Miss K (2024) ผีนรก 610",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/The-Haunted-Apartment-Miss-K-2024-ผีนรก-610.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/781e0271806303040e18c3b7/6423.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bad Influence (2025) วัยรักอันตราย",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Bad-Influence-2025-วัยรักอันตราย.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/ea878654d6a66a9cdc70aee6/2033.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/edd54e176f509fcc1d4fb911/5695.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nonnas (2025) รักนะย่ายายจ๋า",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Nonnas-2025-รักนะย่ายายจ๋า.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/bf0b34fc77551817fad1586a/8889.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/27a75bcfb183cb8c5df70aa8/3717.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Last Bullet (2025) แรงทะลุกระสุน 3",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Last-Bullet-2025-แรงทะลุกระสุน-3.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/449127cc06dbce1b37d737e8/4783.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/8316c67d69ead9c08faaef0e/8297.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lost Bullet 2 Back for More (2022) แรงทะลุกระสุน 2",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/Lost-Bullet-2-Back-for-More-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/979c5a63477de25d17242c41/2099.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/91a85a5866e0622fb2b826a1/2909.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lost Bullet (2020) แรงทะลุกระสุน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/Lost-Bullet-2020.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/bb45646af6164fac16864dd0/4787.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/07f2253f41af380357bca86f/2421.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Britain and the Blitz (2025) ยุทธการเดอะบลิตซ์พิชิตอังกฤษ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Britain-and-the-Blitz-2025-ยุทธการเดอะบลิตซ์พิชิตอังกฤษ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/bdcfd6614ed914cd2ad6d894/5072.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Detective Chinatown (2016) แก็งค์ม่วนป่วนเยาวราช",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/04/Detective-Chinatown-2016-แก็งค์ม่วนป่วนเยาวราช.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/b7f9a7c71de4a8b3545a4164/6501.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/0443ed574d250bb7267c95fc/7937.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GTO Revival (2024) คุณครูพันธุ์หายาก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/GTO-Revival-2024-คุณครูพันธุ์หายาก.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/4fb5ceb1800abd36b3ff73f2/2117.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Biggest Fan (2025) แฟนพันธุ์แท้",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/The-Biggest-Fan-2025-แฟนพันธุ์แท้.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/7799ab9462e70046820b6d21/5777.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Cliche (2024) คุณชายน์",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/05/The-Cliche-2024-คุณชายน์.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/669be532b62158522bb8ca9a/8695.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Exterritorial (2025) พลิกแผนลับลวงระทึก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Exterritorial-2025-พลิกแผนลับลวงระทึก.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/02cca90a7e2414b61c643703/2291.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/a26ef0a79299e649beac222f/8750.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Rose of Versailles (2025) กุหลาบแวร์ซายส์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/The-Rose-of-Versailles-2025-กุหลาบแวร์ซายส์.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/038df4b3766d7357eb398048/5940.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ebe0a9a419e3bb62221306a7/3371.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Money Games (2025) ขบวนการปราบเงินตุ๋น",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/04/Money-Games-2025-ขบวนการปราบเงินตุ๋น.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b1f79acddca468431d2b5587/5924.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Teasing Master Takagi san Movie (2024) แกล้งนัก (รัก)นะรู้ยัง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/04/Teasing-Master-Takagi-san-Movie-2024-แกล้งนัก-รักนะรู้ยัง.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/9ede3b97b4bdfd84c0de4c9e/4660.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Havoc (2025) ฝ่าหายนะครองเมือง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/04/Havoc-2025-ฝ่าหายนะครองเมือง.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/ac6c9eb592e6f281af432f91/7474.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jewel Thief The Heist Begins (2025) จอมโจรอัญมณี เริ่มแผนโจรกรรม",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/04/Jewel-Thief-The-Heist-Begins-2025-จอมโจรอัญมณี-เริ่มแผนโจรกรรม.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/0b933cabc9dd17182c53c274/5465.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/3df788444dd472ea1bb9bec1/2036.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pangolin Kulu's Journey (2025) การเดินทางของคูลู",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/04/Pangolin-Kulus-Journey-2025-การเดินทางของคูลู.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/e0d1e3b6a576c710da507fae/2515.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
