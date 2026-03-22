@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Sniper Elite Nanocrisis (2024) สไนเปอร์มือฉมัง",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2024/07/Sniper-Elite-Nanocrisis-2024-สไนเปอร์มือฉมัง.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6dcc6decf2cbefce3bddafbb/3135.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/4b1e683d64d2e9cbf7b65dd6/9359.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Detective Dee and The Punished Swellhea (2024) ตี๋เหรินเจี๋ย มังกรผู้หยิ่งผยอง",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2024/08/Detective-Dee-and-The-Punished-Swellhea-2024-ตี๋เหรินเจี๋ย-มังกรผู้หยิ่งผยอง-1.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/29a6c7d051a7ad6f71a4e88b/9984.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/a7a6f8d7920f93db61e78761/7303.m3u8"
+          }
+        ]
+      }
+    ]
+  }
+]
