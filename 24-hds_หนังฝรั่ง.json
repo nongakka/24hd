@@ -8350,5 +8350,333 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Scary Movie (2000) ยำหนังจี้ หวีดดีไหมหว่า",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2023/03/Scary-Movie-2000.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/d595d0d86d92688877ccb666/3973.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trainwreck Mayor of Mayhem (2025) อภิมหาวายป่วง นายกเทศมนตรีแห่งความโกลาหล",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/06/Trainwreck-Mayor-of-Mayhem-2025-อภิมหาวายป่วง-นายกเทศมนตรีแห่งความโกลาหล.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/29d02c9e67ee5c3e70b8b9a0/5338.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/6c80217093d3224056808a5e/2867.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Homem com H (2025) เพลงชีวิตเนย์ มาโตกรอสโซ",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/06/Homem-com-H-2025-เพลงชีวิตเนย์-มาโตกรอสโซ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/4fec5d817c8e38ab9512e6d0/8172.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "45 Years (2015)",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/06/45-Years-2015.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/0ced6d25b25138deffa72fde/1878.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Studio 666 (2022) ปลุกวิญญาณร็อก",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2023/08/Studio-666-2022-ปลุกวิญญาณร็อก.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6715f2bfbf12651f51cfb312/7570.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/14e994b08a228eb16f191758/2862.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fountain of Youth (2025) นักล่าขุมทรัพย์อัจฉริยะ",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/05/Fountain-of-Youth-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b344100ee11322c90629762f/7956.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Alien Covenant (2017) เอเลี่ยน โคเวแนนท์",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/06/Alien-Covenant-2017-เอเลี่ยน-โคเวแนนท์.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/d7336afbeec3b92dbd5e12b3/3364.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Prometheus (2012) โพรมีธีอุส",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/06/Prometheus-2012-โพรมีธีอุส.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/8ab7ff1116fd9296e777ea8d/5500.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Calendar Killer (2025) คาเลนดาร์คิลเลอร์ วันสั่งตาย",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/01/The-Calendar-Killer-2025-คาเลนดาร์คิลเลอร์-วันสั่งตาย.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/1b5fd4d95c2691866e9c8db4/5426.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/0c59d7e80af91b9b6bcbb2fc/6186.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Luccas World (2025) โลกของลุคก้า",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/02/Luccas-World-2025-โลกของลุคก้า.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ba2cd037ae8be61cb9d364f8/8851.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Surfer (2024) กูจะเซิร์ฟ",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/06/The-Surfer-2024-กูจะเซิร์ฟ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/24b44219d1358ecde3d06823/8911.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Echo Valley (2025)",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/06/Echo-Valley-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/e478fbef774e38967fdb04b6/7174.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Deep Cover (2025) ภารกิจด้นสด ปลดล็อกสกิลรั่ว",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/06/Deep-Cover-2025-ภารกิจด้นสด-ปลดล็อกสกิลรั่ว.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/2ea8fcf0c2fe03f1b5d0444c/4736.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/8c76088c96246ae49cdf0b2d/2680.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Our Times (2025) ข้ามเวลาของสองเรา",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/06/Our-Times-2025-ข้ามเวลาของสองเรา.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/712a736cf5ced288dd7211c0/1484.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Snow White (2025) สโนว์ไวท์",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/03/Snow-White-2025-สโนว์ไวท์.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/fcf3a974ed866a5e5651adca/4521.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/82d2ca6cc5263373815ab99d/9736.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Romance In Style (2022) โรแมนซ์ อิน สไตล์",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2023/06/Romance-In-Style-2022-โรแมนซ์-อิน-สไตล์.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/c300416f697c3bb2cec41c3a/9784.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b98c74f86e6eea8a267832b6/7345.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Broke (2025) ขุมเยือกแข็ง",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/06/Broke-2025-ขุมเยือกแข็ง.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/00d1e5e3aaf1189d796e5386/6395.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ocean with David Attenborough (2025)",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/06/Ocean-with-David-Attenborough-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b9e02726ce3e6eed74d0efaf/9740.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Alto Knights (2025)",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/06/The-Alto-Knights-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/4b7397bbf7b04c4fa372e7a3/7199.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Straw (2025) ฟางเส้นสุดท้าย",
+    "image": "https://www.24hd-movie.com/wp-content/uploads/2025/06/Straw-2025-ฟางเส้นสุดท้าย.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/cd0eb54e11f9459773a15ba1/1335.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/1d7a49be974528786ef66ba6/1975.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
