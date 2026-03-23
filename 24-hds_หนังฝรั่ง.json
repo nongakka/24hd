@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Is This Thing On (2025)",
+    "image": "http://www.24-hds.com/wp-content/uploads/2026/03/Is-This-Thing-On-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/051a64de28e32ef5eeffa9c7/1471.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Den of Thieves 2 Pantera (2025)",
+    "image": "http://www.24-hds.com/wp-content/uploads/2025/01/Den-of-Thieves-2-Pantera-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6bb9dc13842d02e956b64018/7050.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/dff01a1eb8580e162ab0339d/8216.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pilar's Diary in the Amazon (2025)",
+    "image": "http://www.24-hds.com/wp-content/uploads/2026/03/Pilars-Diary-in-the-Amazon-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/64539a6fc0dc23430d7017b8/7631.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "A Town Called Purgatory (2025)",
+    "image": "http://www.24-hds.com/wp-content/uploads/2026/03/A-Town-Called-Purgatory-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/dcb090194a38e948efc79b8b/5713.m3u8"
+          }
+        ]
+      }
+    ]
+  }
+]
