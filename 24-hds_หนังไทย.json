@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "title": "4 Tigers (2025) เสือ",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/11/4-Tigers-2025-เสือ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/c65f7ad3af13b260f33fc9c6/3173.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MY BOO 2 (2025) อนงค์ 2..สามสี่ชาติ",
+    "image": "http://www.24-hds.com/wp-content/uploads/2026/03/MY-BOO-2-2025-อนงค์-2.สามสี่ชาติ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/59e4667d2ccd213a19c8dbb2/5099.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "My Boo (2024) อนงค์",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2024/10/อนงค์-My-Boo-2024.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6e363837ea8a7bdd61c97cb9/2865.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "ZIEN-LANG Best Friends Forever (2023) เซียนหรั่ง เดอะมูฟวี่",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2023/09/ZIEN-LANG-Best-Friends-Forever-2023-เซียนหรั่ง-เดอะมูฟวี่.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/56bc00384787530383851625/6418.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Death Whisperer 3 (2025) ธี่หยด 3",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2025/10/Death-Whisperer-3-2025-ธี่หยด-3.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/abd82a71ec04762c078c4432/8911.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nak Loves Mak Sooo Much! (2025) นากรักมาก ม๊ากมาก",
+    "image": "http://www.24-hdmovie.com/wp-content/uploads/2026/01/Nak-Loves-Mak-Sooo-Much-2025-นากรักมาก-ม๊ากมาก.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6c339de755ba0da8ce2a546b/6242.m3u8"
+          }
+        ]
+      }
+    ]
+  }
+]
