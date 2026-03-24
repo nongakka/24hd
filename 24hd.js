@@ -483,71 +483,59 @@ return [...new Set(cats)]
 
 }
 
-async function scanCategory(path){
+async function scanCategory(path, oldShows){  // เพิ่ม parameter oldShows
 
 let shows=[]
 let pageNum=1
 
 while(true){
-if(TEST_MODE && pageNum > 1){
-break
-}
-const url = pageNum === 1
-  ? DOMAIN + path
-  : DOMAIN + path + "page/" + pageNum + "/"
+  if(TEST_MODE && pageNum > 1) break
 
-console.log("SCAN",url)
+  const url = pageNum === 1
+    ? DOMAIN + path
+    : DOMAIN + path + "page/" + pageNum + "/"
 
-try{
+  console.log("SCAN",url)
 
-const html = await load(url)
-const $ = cheerio.load(html)
+  try{
+    const html = await load(url)
+    const $ = cheerio.load(html)
 
-let found = 0
+    let foundNew = 0
 
-$("a").each((i, el) => {
+    $("a").each((i, el) => {
 
-  // 🔥 เอาเฉพาะการ์ดหนัง
   if($(el).find(".box-img").length === 0) return
 
   const link = $(el).attr("href")
 
-  if(
-    link &&
-    link.startsWith(DOMAIN) &&
-    !link.includes("/wp-") &&
-    !link.includes("/category/") &&
-    !link.includes("/page/")
-  ){
+  if(!link || !link.startsWith(DOMAIN)) return
+
+  // ✅ เอาเฉพาะ "ของใหม่จริง"
+  if(!oldShows.has(link)){
     shows.push(link)
-    found++
+    foundNew++
   }
 
 })
 
-shows = [...new Set(shows)]
+    console.log("NEW IN PAGE", foundNew)
 
-console.log("FOUND SHOWS",found)
-//console.log("SHOW SAMPLE",shows.slice(0,5))
+    if(foundNew === 0){
+      console.log("🛑 NO NEW → STOP CATEGORY")
+      break
+    }
 
-if(found===0){
-console.log("END CATEGORY",path)
-break
+    pageNum++
 
-}
-
-pageNum++
-
-}catch(e){
-console.log("SCAN ERROR",e.message)
-break
-
-}
+  }catch(e){
+    console.log("SCAN ERROR",e.message)
+    break
+  }
 
 }
 
 return [...new Set(shows)]
-
 }
 
 async function run(){
@@ -565,6 +553,22 @@ let jsonOutput={}
 let movieCount = 0
   
 let resume = progress.show ? false : true
+// ─── เพิ่มก่อน for cat
+let oldShows = new Set()
+
+const files = fs.readdirSync(".").filter(f => f.startsWith("24-hds_") && f.endsWith(".json"))
+
+for(const file of files){
+  try{
+    const data = JSON.parse(fs.readFileSync(file))
+    data.forEach(m => {
+  if(m.link) oldShows.add(m.link)
+})
+  }catch(e){
+    console.log("READ OLD ERROR", file)
+  }
+}
+
 
 for(const cat of testCategories){
 
@@ -580,7 +584,7 @@ if(!fs.existsSync(file)){
 fs.writeFileSync(file,"#EXTM3U\n\n")
 }
 
-const shows=await scanCategory(cat)
+const shows = await scanCategory(cat, oldShows)
 const testShows = TEST_MODE ? shows.slice(0,1) : shows
 for(const show of testShows){
 console.log("PROCESS SHOW",show)
@@ -644,6 +648,7 @@ let poster=$("meta[property='og:image']").attr("content") || ""
 
 let movie={
   title:title,
+  link: show,
   image:poster,
   episodes:[]
 }
@@ -746,8 +751,8 @@ const video = convertToM3u8(iframe)
 
 if(movie.episodes.length>0){
 
-jsonOutput[group].push(movie)
-
+jsonOutput[group].unshift(movie)
+oldShows.add(show)
 fs.writeFileSync(
 "24-hds_"+group+".json",
 JSON.stringify(jsonOutput[group],null,2)
