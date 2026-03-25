@@ -640,5 +640,369 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Stranger Things Season 3 (2019) สเตรนเจอร์ ธิงส์ ซีซั่น 3",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/12/Stranger-Things-Season-3-2019-สเตรนเจอร์-ธิงส์-ซีซั่น-3.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/26de02ecd30de9ca16384d42/8798.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/5259d129a855ec5cb26fed0f/9383.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Stranger Things Season 2 (2017) สเตรนเจอร์ ธิงส์ ซีซั่น 2",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/12/Stranger-Things-Season-2-2017-สเตรนเจอร์-ธิงส์-ซีซั่น-2.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/1d8c107e3493fb8db2e809f0/1972.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/68a3a28ad96f19ca73afa058/4586.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Stranger Things (2016) สเตรนเจอร์ ธิงส์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/12/Stranger-Things-2016-สเตรนเจอร์-ธิงส์.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/672b55c68005f20266d1d02a/2044.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/234c1051b0fd61b77e7f9232/5802.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Now You See Me 2 (2016) อาชญากลปล้นโลก 2",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/03/Now-You-See-Me-2-2016-อาชญากลปล้นโลก-2.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/1089a5e9a1dfeade12150498/5048.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Now You See Me (2013) อาชญากลปล้นโลก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/03/Now-You-See-Me-2013-อาชญากลปล้นโลก.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/59d02a0bced3f93827a4d6b5/1355.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/cf47aa8284e8d91dacfd6634/9947.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Black Phone 2 (2025) สายหลอน ซ่อนวิญญาณ 2",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/11/Black-Phone-2-2025-สายหลอน-ซ่อนวิญญาณ-2.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/f3b0766f10df53098d19f887/8453.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Black Phone (2022) สายหลอน ซ่อนวิญญาณ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/The-Black-Phone-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/8c1fb2cd9c07caacdd64cb89/7296.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Witcher Season 4 (2025) เดอะ วิทเชอร์ นักล่าจอมอสูร ซีซั่น 4",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/11/The-Witcher-Season-4-2025-เดอะ-วิทเชอร์-นักล่าจอมอสูร-ซีซั่น-4.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/a417fdec429a8995ef6bbf35/5752.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/f2a15e22cedd472a1d455258/7314.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fright Night 2 New Blood (2013) คืนนี้ผีมาตามนัด 2 ดุฝังเขี้ยว",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/04/Fright-Night-2-New-Blood-2013-คืนนี้ผีมาตามนัด-2-ดุฝังเขี้ยว.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/3d25afb5666fb21127216c51/8346.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/1447ecdd6aea982d5e4f3e27/7677.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fright Night (2011) คืนนี้ผีมาตามนัด",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/04/Fright-Night-2011-คืนนี้ผีมาตามนัด.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/7087f50fcbf8d01dba299ffc/8165.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/94fb9dde9914efc16fbd89c7/7221.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "National Treasure Book of Secrets (2007) ปฏิบัติการณ์เดือด ล่าบันทึกลับสุดขอบโลก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/National-Treasure-Book-of-Secrets-2007.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/0766dcf85e2a58fd5954c62c/5356.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/808d7f0f79e784d03568cb6f/6269.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "National Treasure (2004) ปฏิบัติการเดือด ล่าขุมทรัพย์สุดขอบโลก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/National-Treasure-2004.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/0755fdf213d023876785abec/8554.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/e286f09929c4d5878a4fc818/6171.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Bad Guys 2 (2025) วายร้ายพันธุ์ดี 2",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/08/The-Bad-Guys-2-2025-วายร้ายพันธุ์ดี-2.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/b878885f51b89c2c1aa7016e/6622.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/9a4a337eabe10a8f21f6f50b/8034.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Silence of the Lambs (1991) อำมหิตไม่เงียบ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/03/The-Silence-of-the-Lambs-1991-อำมหิตไม่เงียบ.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/2acddf7229e83b2d22ab4f29/4651.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/3033b1bd354c60d6a5a917b3/1422.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ne Zha 2 (2025) นาจา 2",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/03/Ne-Zha-2-2025-นาจา-2.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/c2868f683c0f3b8f80da5321/5713.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/58f709f6676b070f1d62869d/1436.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nobody (2021) คนธรรมดานรกเรียกพี่",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/02/Nobody-2021-คนธรรมดานรกเรียกพี่.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/5f2ffa866cfed56965940138/9292.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/002f99ae1d4bd6c7aca80e90/7027.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mission Impossible 8 The Final Reckoning (2025) มิชชั่น อิมพอสซิเบิ้ล ปิดปฏิบัติการล่าพิกัดมรณะ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Mission-Impossible-8-The-Final-Reckoning-2025-มิชชั่น-อิมพอสซิเบิ้ล-ปิดปฏิบัติการล่าพิกัดมรณะ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/98f7f84a9118142f8dedaa5e/2556.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/cbfb6a4afd2f26823e9285a8/6465.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "28 Years Later (2025) 28 ปีให้หลัง เชื้อเขมือบคน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/06/28-Years-Later-2025-28-ปีให้หลัง-เชื้อเขมือบคน.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/0a6daaa712ea887b975b0d96/7552.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/60d26bf80b9e4a8cc86b914a/6728.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Art of the Devil Beginning (2025) พนอ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/01/Art-of-the-Devil-Beginning-2025-พนอ-1.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/27f2eea731744d8a864e5c5a/5972.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Final Destination Bloodlines (2025) ไฟนอล เดสติเนชั่น ทายาทโกงตาย",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Final-Destination-Bloodlines-2025-ไฟนอล-เดสติเนชั่น-ทายาทโกงตาย.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/00bc5ca72b976a94723e8fbb/8638.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/1a280dc278d6e411bf95b91e/1639.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
