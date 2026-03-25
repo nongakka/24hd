@@ -5474,5 +5474,349 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Always Amore (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Always-Amore-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/bb92c3ab48737afe2218aaf8/6925.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Feel the Beat (2020) ขาแดนซ์วัยใส",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Feel-the-Beat-2020-ขาแดนซ์วัยใส.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/7360a8d37c6b3f49b0c8a88e/3375.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/1421cefb95565df7aa6e4037/9828.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Deep Rising (1998) เลื้อยทะลวง 20,000 โยชน์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Deep-Rising-1998.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/7127233422221c069a1e6791/4577.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/f351cd1db00ceb066a869639/4328.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Gangs of Lagos (2023) แก๊งแห่งลากอส",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Gangs-of-Lagos-2023-แก๊งแห่งลากอส.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/48caa5eaa99214b2617ef721/7290.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hitmen (2023) ฮิตเม็น คู่ซี้สุดทางปืน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Hitmen-2023-ฮิตเม็น-คู่ซี้สุดทางปืน.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/e3530210295bb0620de9618c/3982.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Passengers (2016) คู่โดยสารพันล้านไมล์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Passengers-2016-คู่โดยสารพันล้านไมล์.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/19781289b1b57cfa2e1f2375/3478.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/e8e5402b47e8cf536977be7b/5723.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Judy Blume Forever (2023)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Judy-Blume-Forever-2023.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c02833a10611191b302682fc/3566.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Blair Witch (2016) แบลร์ วิทช์ ตำนานผีดุ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Blair-Witch-2016-แบลร์-วิทช์-ตำนานผีดุ.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/24c5f76d8709980cfa9e0e51/1931.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/872d296845392800db9aaf79/6290.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Scream 6 (2023) หวีดสุดขีด 6",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/03/Scream-6-2023-หวีดสุดขีด-6.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/10ef1b2205858d3590f8a42b/6473.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/134f957bea67f25f0c656445/4359.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Clock (2023)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Clock-2023.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/5dea4be56dcb043fb62de99a/9232.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Undercover Brother 2 (2019) อันเดอร์คัพเวอร์ บราเธอร์ 2",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Undercover-Brother-2-2019-อันเดอร์คัพเวอร์-บราเธอร์-2.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/a49dd96599aa593e3b996b94/6282.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Undercover Brother (2002) อันเดอร์คัพเวอร์ บราเธอร์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Undercover-Brother-2002-อันเดอร์คัพเวอร์-บราเธอร์.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/9f47391d9296ca54422c1a12/6039.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Crank High Voltage (2009) แครงก์ คนคลั่งไฟแรงสูง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Crank-High-Voltage-2009-แครงก์-คนคลั่งไฟแรงสูง.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/Failed/Failed.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Red Sun (1971) ตะวันเพลิง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Red-Sun-1971-ตะวันเพลิง.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/5f08c297249ecd7bd134af20/5315.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/94d3a236407289c34db5e2ef/10000.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Step Brothers (2008) สเต๊ป บราเธอร์ส ถึงหน้าแก่แต่ใจยังเอ๊าะ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Step-Brothers-2008-สเต๊ป-บราเธอร์ส-ถึงหน้าแก่แต่ใจยังเอ๊าะ.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/d5e32650b9ba805706f21e4a/5170.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/7bf40a57cf8a8238c2217c3a/2786.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Brothers (2009) บราเทอร์...เจ็บเกินธรรมดา",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Brothers-2009-บราเทอร์...เจ็บเกินธรรมดา.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/8a19376d464cd59b00aaa1d5/8570.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/f809a3ab73dd420623e1df08/4169.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Offering (2022) มันสิงอยู่ในร่าง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/04/The-Offering-2022-มันสิงอยู่ในร่าง.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/f036bfe0beba8517ba268e67/2332.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/777c4948fffd437a42335f58/2088.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "What Happened to Monday (2017) 7 เป็น 7 ตาย",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/What-Happened-to-Monday-2017-7-เป็น-7-ตาย.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/c1640a8bcde0f734098f40b1/7814.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/45e63d2ac2a4b4f5157dbd1e/5793.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "News of the World (2020) นิวส์ ออฟ เดอะ เวิลด์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/News-of-the-World-2020-นิวส์-ออฟ-เดอะ-เวิลด์.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/f0ca1bf2b54282d8902e5b40/7329.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/cdda11d24a62057ad93ecec2/3247.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hanna (2011) เหี้ยมบริสุทธิ์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/05/Hanna-2011-เหี้ยมบริสุทธิ์.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/96195c014a41023e58097942/4196.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
