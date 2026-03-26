@@ -11706,5 +11706,287 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Dragon Inn (1992) เดชคัมภีร์แดนพยัคฆ์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Dragon-Inn-1992.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/20a5f8a6ac00e404234d7bcd/4904.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Everything Everywhere All at Once (2022) ซือเจ๊ทะลุมัลติเวิร์ส",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Everything-Everywhere-All-at-Once-2022-ซือเจ๊ทะลุมัลติเวิร์ส.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6685461bc1ee7aace6420533/5551.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/71568f39f789580671074ac7/8336.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fox Love (2022) ตำนานรักปีศาจจิ้งจอก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Fox-Love-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/dc3033b62a8658f7578f7ba8/9373.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Murloc (2022) มนุษย์เงือก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Murloc-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/d5d628a329063c5a36be52c8/1571.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Journey of East (2022) ผจญภัยในดินแดนตะวันออก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Journey-of-East-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/928b8423165c2df4c0a2c235/2323.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/Failed/6506.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nine Colors Deer King (2022) ราชากวางเก้าสี ภาคอดีต",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Nine-Colors-Deer-King-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/123719a545ffc9578598d733/6492.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mukden Funeral Shop (2022) โรงละครสยองขวัญ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Mukden-Funeral-Shop-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/823e3a4233a1e20005013fc3/5223.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lighting up the Stars (2022) จุดประกายดาว",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Lighting-up-the-Stars-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/bc6ced8fee937db8fa6434ae/3317.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Invincible Constable (2022) ห้าหนูคะนองกรุง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/The-Invincible-Constable-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/15c27b0139e36a2f9ea9508f/3279.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nie Yinniang (2022) โศกนาฏกรรมเนี่ยยิ่นเหนียง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Nie-Yinniang-2022-โศกนาฏกรรมเนี่ยยิ่นเหนียง.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/af725261b2cd82d79a311570/3004.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Infinite blocks (2022) บอดี้การ์ดพิเศษ 5",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Infinite-blocks-2022-บอดี้การ์ดพิเศษ-5.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/fe95c1b3397a06d9ae1423a1/2254.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Reincarnation Land (2022) อาณาจักรแห่งหยินหยาง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Reincarnation-Land-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/82b5b80bcc811c030462601d/1049.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "JiangHu (2022) สิบพยัคฆ์กวางตุ้ง กำปั้นเหล็กไร้เทียมทาน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/JiangHu-2022-สิบพยัคฆ์กวางตุ้ง-กำปั้นเหล็กไร้เทียมทาน.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/bc4a72283fa49f4e96094b3b/3916.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Whirlwind of Sword and Fairy (2022) อภินิหารกระบี่คู่ไร้เทียมทาน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/The-Whirlwind-of-Sword-and-Fairy-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/5c525583384ca20cf0186de9/3130.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Legend Of Enveloped Demons (2022) กระบี่ผนึกมาร",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/The-Legend-Of-Enveloped-Demons-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/087d147b9458a821584a7b49/5447.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Great Illusionist 2 (2022) ยอดพยัคฆ์นักมายากล",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/The-Great-Illusionist-2-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/a89066d0c346c80aab953e62/4378.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Great Illusionist (2020) นักเนรมิตภาพลวง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/The-Great-Illusionist-2020.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/be9e8441ffb5cc640db05368/3355.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Zhong Kui Exorcism (2022) จงขุย ตำนานเทพอสูร",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Zhong-Kui-Exorcism-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/ba408862cf6779592e08f59f/8905.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/47d78da6726c13ba88624154/7051.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
