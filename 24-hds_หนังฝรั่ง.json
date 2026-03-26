@@ -1702,5 +1702,345 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Meet Cute (2022) ย้อนเวลาป่วนรัก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/Meet-Cute-2022-ย้อนเวลาป่วนรัก.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ff19a470794aba16ac0c915d/3801.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Lost Patient (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/The-Lost-Patient-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/6c25343cb86bae17c9923475/6999.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Visitor (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/The-Visitor-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/4d799fec3d56b16cdd2a6abe/7366.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Noel Diary (2022) บันทึกของโนเอล",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/The-Noel-Diary-2022-บันทึกของโนเอล.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/64516bf9564bea7c50d26fa8/3774.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/7636942d0a6aa2872bcded5b/6223.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Purple Hearts (2022) เพอร์เพิลฮาร์ท",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/Purple-Hearts-2022-เพอร์เพิลฮาร์ท.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/037311b0ce986bdda11286e5/7490.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/95e5e025fcb2ba5bd6633759/5881.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Limbo (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/Limbo-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/3a3cb5c7e170dbf585263dfe/6786.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Blood Sex & Royalty (2022) เลือด เซ็กซ์ และความภักดี",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/Blood-Sex-Royalty-2022-เลือด-เซ็กซ์-และความภักดี.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/522f57df7d01426bc98b7425/5498.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/8704488b3f03abae9b327b20/3310.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lesson Plan (2022) โรงเรียนอันตราย",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/Lesson-Plan-2022-โรงเรียนอันตราย.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6d25f9d0df6c75fbff729795/6712.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/683c52f1df2a82601648dbfe/8289.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Christmas on Mistletoe Farm (2022) คริสต์มาสใต้ต้นรัก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/Christmas-on-Mistletoe-Farm-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/db0e142dc4db2a0d0412326d/8369.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/a323d794f9a6f65f8cd5cef9/2888.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Who’s a Good Boy (2022) รักต้องเชื่อง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/Whos-a-Good-Boy-2022-รักต้องเชื่อง.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/4874129b3879c3bc82bc8daa/4421.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Swimmers (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/The-Swimmers-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/d9254d74e0fa128fa3ea0559/1111.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ae9e3a6a01ed97a22c5ac239/2796.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Wednesday (2022) เว้นส์เดย์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/Wednesday-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/bcda7db37fe129004db530db/2765.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/920d29dbbe5a1359896bf1c2/7944.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Addams Family Values (1993) อาดัม แฟมิลี่ 2 ตระกูลนี้ผียังหลบ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/Addams-Family-Values-1993.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/f196339aad8664e010ef4848/2726.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Addams Family (1991) อาดัมส์ แฟมิลี่ ตระกูลนี้ผียังหลบ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/The-Addams-Family-1991.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/e1dbb05bf899fb0c427e79a0/8476.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Santa Clauses (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/The-Santa-Clauses-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/1ac91fb6f9a18dc764737754/4811.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Andor (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Andor-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/bcd0d303a1847281c96ff999/3841.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/021d1a9f8f0645653a469568/1213.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Intern (2015) ดิ อินเทิร์น โก๋เก๋ากับบอสเก๋ไก๋",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/The-Intern-2015-ดิ-อินเทิร์น-โก๋เก๋ากับบอสเก๋ไก๋.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/42f6d3b601d9149dfb1096e6/3005.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/d60376bf3f921d1ee42798a0/4740.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Coma (2019)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/Coma-Koma-2019.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/27cedd775e7a4966c87bff12/6450.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Electrical Life of Louis Wain (2021) ชีวิตสุดโลดแล่นของหลุยส์ เวน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/The-Electrical-Life-of-Louis-Wain-2021.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/a61da5ed60cec0876455a275/3599.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/39f12e2aca1f8bf7a52c106f/9115.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sachertorte (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/11/Sachertorte-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/bb421a06e33b29808c8662c1/4847.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
