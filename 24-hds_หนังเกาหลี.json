@@ -654,5 +654,145 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Narco Saints (2022) นักบุญนาร์โค",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Narco-Saints-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/5203db15b476606c0e89a945/1411.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c809433e92f66cd672929086/8790.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Zombie Detective (2020) ซอมบี้นักสืบ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Zombie-Detective-2020.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6276cd15ecae3380f0ed0da0/8644.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/d79df129c3d0772db390b483/5974.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kingdom Ashin of the North (2021) ผีดิบคลั่ง บัลลังก์เดือด อาชินแห่งเผ่าเหนือ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Kingdom-Ashin-of-the-North-2021.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/016dbea2e0bc8f84c79440d4/8209.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/4c8752ddda8f185e526cff5b/8606.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "In Our Prime (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/In-Our-Prime-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/730a4d0d7a2c9cf1a41e6222/3632.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Stellar A Magical Ride (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Stellar-A-Magical-Ride-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/98501304a8afa93c06850fa9/9323.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Portrait of A Beauty (2008) เปลือยรัก วังต้องห้าม",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Portrait-of-A-Beauty-2008.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/03ded747039f72c5aba59f7d/1725.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/fde6d0dff9305455b526f08c/5882.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Special Delivery (2022) ส่งด่วน ทะลุนรก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Special-Delivery-2022-ส่งด่วน-ทะลุนรก.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/937d3fec581a5c9d36aa1703/9151.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Seoul Vibe (2022) ซิ่งทะลุโซล",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/09/Seoul-Vibe-2022-ซิ่งทะลุโซล.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/1530232d9cc651f60b34f5cd/6115.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ffd1f5fb97a72c9e7757ad7c/6163.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
