@@ -4394,5 +4394,325 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Cici (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Cici-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/baa771a799e72590fdec209b/7225.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Matriarch (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Matriarch-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/50995285bbb05e883d2e2ece/1047.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Robbing Mussolini (2022) ปล้นมุสโสลินี",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Robbing-Mussolini.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/58d006364a813cd328a1df6b/5386.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/2277dd54979c4aa905526bb1/4621.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hellhole (2022) ขุมนรก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Hellhole-2022-ขุมนรก.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/530517f809540a7e2dffda64/5013.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/220d7476b89124e3572fbba9/2661.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Curious Case of Carlos Ghosn (2022) หนี คดีคาร์ลอส กอส์น",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/The-Curious-Case-of-Carlos-Ghosn-2022-หนี-คดีคาร์ลอส-กอส์น.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/66be60af7210c79a513a5c81/9830.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Good Nurse (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/The-Good-Nurse-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/681472346266a7cbd78be7df/3555.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/00f7cf1d0e0c49ff4ffef375/7823.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ash and Bone (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Ash-and-Bone-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/f7447c4676a8091b1099dfba/5691.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hounded (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Hounded-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/f4e934ddaf862cdfe752afb0/7309.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pretty Woman (1990) ผู้หญิงบานฉ่ำ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Pretty-Woman-1990.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/40cf1a24069efdb722c3a6cb/7353.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Don’t Worry Darling (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Dont-Worry-Darling-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/745bfdd889353f13f2f889ee/5763.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Under Wraps 2 (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Under-Wraps-2-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/869c0c79e46b511ac87a248f/8131.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "House of the Dragon (2022) ตระกูลแห่งมังกร",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/08/House-of-the-Dragon-2022-ตระกูลแห่งมังกร.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/ccad53f76b4108b77fa63158/8527.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/8b091f22902278b94ef5bbd6/7322.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Terrifier 2 (2022) อิหนูกูจะฆ่ามึง 2",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Terrifier-2-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/343a235855ffb816ecc668ca/2302.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Terrifier (2016) อิหนูกูจะฆ่ามึง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Terrifier-2016.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/0fb05826fdae9f361caddeca/3378.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Code Name Emperor (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Code-Name-Emperor-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/dd5387574f4cd5e317e3390d/7463.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Domestic (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/The-Domestic-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/fa65a27a48756f7e7d14401c/6374.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Raymond & Ray (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Raymond-Ray-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/add010285814e888e3ca6ceb/8975.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Descendant (2022) ทายาทเรือทาส",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Descendant-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/41b002897e8a46350c0223ba/1997.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/bea4d844718eb03809f1392b/2844.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Loneliest Boy in the World (2022) เด็กชายที่โดดเดี่ยวที่สุดในโลก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/The-Loneliest-Boy-in-the-World-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ffc688800e859a991958f39c/8885.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bros (2022) เพื่อนชาย",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/10/Bros-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/f73913228612865f753f4a08/3802.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
