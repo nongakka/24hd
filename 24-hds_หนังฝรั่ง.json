@@ -634,5 +634,373 @@
         ]
       }
     ]
+  },
+  {
+    "title": "X (2022) เอ็กซ์ เซ็กซ์ โป๊ เชือด",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/X-2022-เอ็กซ์-เซ็กซ์-โป๊-เชือด.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c9b610ec80201beb1920f2b3/9403.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mile 22 (2018) คนมหากาฬเดือดมหาประลัย",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Mile-22-2018-คนมหากาฬเดือดมหาประลัย.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/150aec8a3d97571c235b1a4d/9603.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/3b81de2f51fbb7b07865c628/4232.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bumblebee (2018) บัมเบิ้ลบี",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Bumblebee-2018.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/5a68dd3fab32596a22d61655/1107.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/fce3ba1df0b1b967b7c7d6cc/6881.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Transformers 5 The Last Knight (2017) ทรานส์ฟอร์เมอร์ส 5 อัศวินรุ่นสุดท้าย",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Transformers-5-The-Last-Knight-2017.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6a3ed97b61dd0dacb3efc304/3832.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/359a21694c3e7ca7ba039750/7729.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Transformers 4 Age of Extinction (2014) ทรานส์ฟอร์เมอร์ส 4 มหาวิบัติยุคสูญพันธุ์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Transformers-4-Age-of-Extinction-2014.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/f4f02df2971a5159d4cfd2af/6789.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/1772c2ec3fc7dd37f71fc9d5/8410.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Transformers 3 Dark of the Moon (2011) ทรานส์ฟอร์เมอร์ส 3 ดาร์ค ออฟ เดอะ มูน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Transformers-3-Dark-of-the-Moon-2011.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/1bca90fe779de3725a54c5d1/7540.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/e94429de8aa01d26e00cf7f0/4121.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Transformers 2 Revenge of the Fallen (2009) ทรานฟอร์เมอร์ส 2 มหาสงครามล้างแค้น",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Transformers-2-Revenge-of-the-Fallen-2009.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/3e81eb600385072f1a0e268a/9265.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ef1dea5733b05c01d942376d/3066.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Transformers 1 (2007) ทรานส์ฟอร์มเมอร์ส 1 มหาวิบัติจักรกลสังหารถล่มจักรวาล",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Transformers-2007.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/dd4da7d8877d40e0b141c02d/5518.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/6ea5fac9572a2e52db9ab6ac/7251.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Big Bug (2022) บิ๊กบั๊ก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Big-Bug-2022-บิ๊กบั๊ก.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/d0f0e4d435b73c4c5a79906e/6181.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/6651555b271662b1c335adcd/7310.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Artemis Fowl (2020) อาร์ทิมิส ฟาวล์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Artemis-Fowl-2020-อาร์ทิมิส-ฟาวล์.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/fad691d51112a392ee44bfbb/3330.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/9fe83f417c5bbbb1bb8816e1/3393.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The House with a Clock in Its Walls (2018) บ้านเวทมนตร์และนาฬิกาอาถรรพ์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/The-House-with-a-Clock-in-Its-Walls-2018-บ้านเวทมนตร์และนาฬิกาอาถรรพ์.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/a40801a47b37210d5adc9b76/9566.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/d3b10fbb12128068adcc809f/2109.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Eragon (2006) เอรากอน กำเนิดนักรบมังกรกู้แผ่นดิน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Eragon-2006-เอรากอน.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/da1f77be5a4fea1b28f27cb4/7747.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/efe08adc74ba06c86bd6cc3e/4982.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Seventh Son (2014) บุตรคนที่ 7 สงครามมหาเวทย์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Seventh-Son-2014-บุตรคนที่-7-สงครามมหาเวทย์.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/62b434767ed2ae15b8c7de12/7115.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/d213003b69cf11108f13907a/1488.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Oz The Great And Powerful (2013) ออซ มหัศจรรย์พ่อมดผู้ยิ่งใหญ่",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Oz-The-Great-And-Powerful-2013-ออซ-มหัศจรรย์พ่อมดผู้ยิ่งใหญ่.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/9574e5ad03fce6ad1cd42356/2927.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/a7919f9b722755fe4a3b91d8/9633.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hot Skull (2022) ฮอตสกัลล์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Hot-Skull-2022-ฮอตสกัลล์.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/304944dbf7ff7b938339f439/2249.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Contractor (2022) คนพิฆาตคอนแทรคเตอร์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/The-Contractor-2022-คนพิฆาตคอนแทรคเตอร์.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/16a19e8f1061d114940676f4/5001.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/cb55622fdef4828c48f91037/6755.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rogue Agent (2022)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Rogue-Agent-2022.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c24a5f7e6717325ae88b7d7a/6143.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Troll (2022) โทรลล์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Troll-2022-โทรลล์.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/871bb3bbf517cc41edde6af2/1853.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/8d27e2c8326ce605737e3d30/6645.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "I Am Number Four (2011) ปฏิบัติการล่าเหนือโลกจอมพลังหมายเลข 4",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/I-Am-Number-Four-2011-ปฏิบัติการล่าเหนือโลกจอมพลังหมายเลข-4.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/09b8f70e1090281fc00261c9/8642.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/09bb2b5226d0fff32c6d0daa/4753.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Willow (1988) วิลโลว์ ศึกแม่มดมหัศจรรย์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/Willow-1988-วิลโลว์-ศึกแม่มดมหัศจรรย์.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/fe159aefb311ec069b922a71/9403.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/fe159aefb311ec069b922a71/4435.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
