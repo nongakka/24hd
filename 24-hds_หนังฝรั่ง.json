@@ -7434,5 +7434,134 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Harry Potter 6 And The Half-Blood Prince (2009) แฮร์รี่ พอตเตอร์ 6 กับเจ้าชายเลือดผสม",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/08/Harry-Potter-6-And-The-Half-Blood-Prince-2009.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/97ebf3c241d38ce97ad9a07c/9778.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/d9e34be086816339c180b9b3/5997.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Harry Potter 5 And The Order Of The Phoenix (2007) แฮร์รี่ พอตเตอร์ 5 กับภาคีนกฟีนิกซ์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/08/Harry-Potter-5-And-The-Order-Of-The-Phoenix-2007.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/495b645e5ceb7a677f3e183c/7837.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/0d2416bde4f137aff51f6529/1399.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Harry Potter 4 And The Goblet Of Fire (2005) แฮร์รี่ พอตเตอร์ 4 กับถ้วยอัคนี",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/08/Harry-Potter-4-And-The-Goblet-Of-Fire-2005.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/1facf185181e88daddf8d8c7/5667.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/cd07465e3983986c2af25b85/3191.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Harry Potter 3 And The Prisoner Of Azkaban (2004) แฮร์รี่ พอตเตอร์ 3 กับนักโทษแห่งอัซคาบัน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/08/Harry-Potter-3-And-The-Prisoner-Of-Azkaban-2004.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/b27c04bf1ffd56ae90449cfa/8931.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/e2836306f8c0a1099393333b/5031.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Harry Potter 2 And The Chamber Of Secrets (2002) แฮร์รี่ พอตเตอร์ 2 กับห้องแห่งความลับ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/08/Harry-Potter-2-And-The-Chamber-Of-Secrets-2002.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/3c8baff3f698db5066d5e335/4322.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/bf272f87fcf39b13d4e6e810/5263.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Harry Potter 1 And The Sorcerer's Stone (2001) แฮร์รี่ พอตเตอร์ 1 กับศิลาอาถรรพ์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/08/Harry-Potter-1-And-The-Sorcerers-Stone-2001.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/bac166e525fde62698416bee/7857.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/1d6c80e6c5bffddaba636d46/9391.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "A Sound Of Thunder (2005) 2054 เจาะไดโนเสาร์โลกล้านปี",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/12/A-Sound-Of-Thunder-2005.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/9f84f111b7ed17ee08e81332/7897.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
