@@ -1,332 +1,5 @@
 [
   {
-    "title": "Kowloon Generic Romance (2025) เกาลูน อุบัติรักปริศนาลับ",
-    "image": "https://www.24-hds.com/wp-content/uploads/2026/03/Kowloon-Generic-Romance-2025-เกาลูน-อุบัติรักปริศนาลับ.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "TH",
-            "url": "https://main.24playerhd.com/newplaylist/52f875116db3ee3c07a34083/8299.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Mieruko Chan (2025) ใครว่าหนูเห็นผี",
-    "image": "https://www.24-hds.com/wp-content/uploads/2026/03/Mieruko-Chan-2025-ใครว่าหนูเห็นผี.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "TH",
-            "url": "https://main.24playerhd.com/newplaylist/5c5d716d3a9d21fe9199b920/3021.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "The Last Night (2025) ตามล่าศพสยอง คืนสุดท้าย",
-    "image": "https://www.24-hds.com/wp-content/uploads/2026/03/The-Last-Night-2025-ตามล่าศพสยอง-คืนสุดท้าย.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/b0ec071b7722d442fb232c50/8371.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "About a Place in the Kinki Region (2025) อาถรรพ์คิงคิ",
-    "image": "https://www.24-hds.com/wp-content/uploads/2026/03/About-a-Place-in-the-Kinki-Region-2025-อาถรรพ์คิงคิ.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "TH",
-            "url": "https://main.24playerhd.com/newplaylist/6335fb2237dbcdcebee81723/2717.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Angel Flight The Movie (2026)",
-    "image": "https://www.24-hds.com/wp-content/uploads/2026/02/Angel-Flight-The-Movie-2026.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/7272e0639aa76a7efd046595/6716.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Beethoven Fabrication (2026) จับไต๋เบโธเฟน",
-    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Beethoven-Fabrication-2026-จับไต๋เบโธเฟน.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/f316de5e1f4f051e6d4108cd/3992.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "BAKAs Identity (2025) กับดักคนโง่",
-    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/BAKAs-Identity-2025-กับดักคนโง่.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/c5fb20411c479cacde963198/7795.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "My Beloved Stranger (2025) รักแรก แปลกหน้า",
-    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/My-Beloved-Stranger-2025-รักแรก-แปลกหน้า.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/d934fcc86e3182dc3682f5f2/5330.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "After the Quake (2025) อาฟเตอร์เดอะเควก",
-    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/After-the-Quake-2025-อาฟเตอร์เดอะเควก.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/d672683fb524247366046ddf/3332.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "10 Dance (2025) 10 แดนซ์",
-    "image": "https://www.24-hds.com/wp-content/uploads/2025/12/10-Dance-2025-10-แดนซ์.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "TH",
-            "url": "https://main.24playerhd.com/newplaylist/04c80c87ba74d7721de82734/7898.m3u8"
-          },
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/63e5ad3b4d2930629947698c/9610.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Lone Samurai (2025)",
-    "image": "https://www.24-hds.com/wp-content/uploads/2025/12/Lone-Samurai-2025.jpg",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/491a19ddc56f010ab2f64c38/9807.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Riverside Mukolitta (2021) ณ ที่พักกับรักของเรา",
-    "image": "https://www.24-hds.com/wp-content/uploads/2025/11/Riverside-Mukolitta-2021-ณ-ที่พักกับรักของเรา.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "TH",
-            "url": "https://main.24playerhd.com/newplaylist/b18c80a2cd88813434912d78/3485.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "A Strange House (2024)",
-    "image": "https://www.24-hds.com/wp-content/uploads/2025/11/A-Strange-House-2024.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "TH",
-            "url": "https://main.24playerhd.com/newplaylist/dd1717822fe6e8c1b911b38b/7638.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "True Beauty (2025)",
-    "image": "https://www.24-hds.com/wp-content/uploads/2025/10/True-Beauty-2025.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/ff7cb2dcc21ab9bccdbb0664/6814.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "The Sea Is Watching (2005)",
-    "image": "https://www.24-hds.com/wp-content/uploads/2025/10/The-Sea-Is-Watching-2025.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/2b984652f4a4f8ed0eadbbfe/8532.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Baban Baban Ban Vampire (2025) วะวะวะวะ แวมไพร์กับนายเวอร์จิ้น",
-    "image": "https://www.24-hds.com/wp-content/uploads/2025/09/Baban-Baban-Ban-Vampire-2025-วะวะวะวะ-แวมไพร์กับนายเวอร์จิ้น.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/08ab2f85981d01dd6ececf04/8757.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Alice in Borderland Season 3 (2025) อลิสในแดนมรณะ ซีซั่น 3",
-    "image": "https://www.24-hds.com/wp-content/uploads/2025/09/Alice-in-Borderland-Season-3-2025-อลิสในแดนมรณะ-ซีซั่น-3.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "TH",
-            "url": "https://main.24playerhd.com/newplaylist/dd0677b0a71f98cdb3021813/3385.m3u8"
-          },
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/6638c198cfaae0cee955f573/9639.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "My Special One (2025)",
-    "image": "https://www.24-hds.com/wp-content/uploads/2025/09/My-Special-One-2025.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/79246bfa9c305e1b6241a1a2/2080.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Paripi Koumei The Movie (2025) ขงเบ้ง เจาะเวลามาปั้นดาว",
-    "image": "https://www.24-hds.com/wp-content/uploads/2025/09/Paripi-Koumei-The-Movie-2025-ขงเบ้ง-เจาะเวลามาปั้นดาว.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/a41b0f7a73243424d2ac8475/2419.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "The Lowlife (2017)",
-    "image": "https://www.24-hds.com/wp-content/uploads/2025/09/The-Lowlife-2017.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/4fa3b415ab602a36b7c89d64/7810.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "The Solitary Gourmet (2025) โกโร่ อร่อยฉายเดี่ยวตะลอนทั่วโลก",
-    "image": "https://www.24-hds.com/wp-content/uploads/2025/09/The-Solitary-Gourmet-2025-โกโร่-อร่อยฉายเดี่ยวตะลอนทั่วโลก.png",
-    "episodes": [
-      {
-        "name": "Full Movie",
-        "servers": [
-          {
-            "name": "TH",
-            "url": "https://main.24playerhd.com/newplaylist/5e28364b5c42ca475954a073/9033.m3u8"
-          },
-          {
-            "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/8a471fa7005ce4a5daac01d7/3927.m3u8"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "Asleep (2015) สาวสวยแปลก",
     "image": "https://www.24-hds.com/wp-content/uploads/2025/09/Asleep-2015-สาวสวยแปลก.png",
     "episodes": [
@@ -335,7 +8,316 @@
         "servers": [
           {
             "name": "EN",
-            "url": "https://main.24playerhd.com/newplaylist/c4aaa5d57ec9b68dcd83525c/1392.m3u8"
+            "url": "https://main.24playerhd.com/newplaylist/c4aaa5d57ec9b68dcd83525c/4801.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Saint Young Men Holy Men vs Demon Army (2024) ศาสดาลาพักร้อน เดอะมูฟวี่",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/09/Saint-Young-Men-Holy-Men-vs-Demon-Army-2024-ศาสดาลาพักร้อน-เดอะมูฟวี่.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/59471d7cc95dfa0338fdf385/6386.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Supernatural Sweet Shop The Movie (2025) เซนิเท็นโด ร้านลึกลับกับขนมวิเศษ เดอะมูฟวี่",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/08/The-Supernatural-Sweet-Shop-The-Movie-2025-เซนิเท็นโด-ร้านลึกลับกับขนมวิเศษ-เดอะมูฟวี่.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/67a7a4920772d7ad88fbc81c/7435.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Homunculus (2021) ฮามังคิวลัส",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/08/Homunculus-2021-ฮามังคิวลัส.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/4f41cc4c0b8e1d1248b69bd3/3868.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Under Ninja (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Under-Ninja-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/1df9435fa43b8a9a7544a361/2121.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Skin Of Roses (1978)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Skin-Of-Roses-1978.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/2911af226b13aba4e95af412/2632.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ghost Killer (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Ghost-Killer-2024.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/df9245319ae105b60037c599/9482.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "11 Rebels (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/06/11-Rebels-2024.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/e82e530f33767eff254acbef/6439.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Audition (1999) ออดิชั่น เลือกเธอมาฆ่า",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/06/Audition-1999-ออดิชั่น-เลือกเธอมาฆ่า.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/63dfd850fefc40695dcc4027/7636.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Let’s Get Divorced (2023) หย่ากันดีกว่า",
+    "image": "https://www.24-hds.com/wp-content/uploads/2023/06/Lets-Get-Divorced-2023-หย่ากันดีกว่า.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/bf64db46d7bf7460054a15a3/3793.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/eb9564f248f291d3b3816690/1796.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Flying Colors (2015) บีลี่เกล สาวน้อยวัยวุ่น",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/06/Flying-Colors-2015-บีลี่เกล-สาวน้อยวัยวุ่น.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/75cf0572b67e6b9121c0ea89/7897.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Oshi no Ko The Final Act (2024) เกิดใหม่เป็นลูกโอชิ บทสุดท้าย",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Oshi-no-Ko-The-Final-Act-2024-เกิดใหม่เป็นลูกโอชิ-บทสุดท้าย.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/2e7f6442454f4ccf19853ec8/3738.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/f47b885723ed5ea1de098b95/2316.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bet (2025) โคตรเซียนโรงเรียนพนัน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/06/Bet-2025-โคตรเซียนโรงเรียนพนัน.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/1f4c02e7a2e0ff46a984a36a/6901.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/4efb20bb64f9b8c5b4836174/4663.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cells at Work (2024) เซลล์ขยันพันธุ์เดือด",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/04/Cells-at-Work-2024-เซลล์ขยันพันธุ์เดือด.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/5e556dac0baff6628fa54422/7761.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c28bf1465828c0ff47cbf645/9317.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Six Lying University Students (2024) ใครโกหกยกมือขึ้น",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Six-Lying-University-Students-2024-ใครโกหกยกมือขึ้น.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/263c4064ff9a548dc34e74b7/9706.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/90128efe781eb300d621157a/8061.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Gannibal Season 2 (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/03/Gannibal-Season-2-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b78c05e91d9ae37ece73e280/9936.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GTO Revival (2024) คุณครูพันธุ์หายาก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/GTO-Revival-2024-คุณครูพันธุ์หายาก.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/4fb5ceb1800abd36b3ff73f2/7578.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Teasing Master Takagi san Movie (2024) แกล้งนัก (รัก)นะรู้ยัง",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/04/Teasing-Master-Takagi-san-Movie-2024-แกล้งนัก-รักนะรู้ยัง.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/9ede3b97b4bdfd84c0de4c9e/5173.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bullet Train Explosion (2025) ระเบิดรถด่วนขบวนระห่ำ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/04/Bullet-Train-Explosion-2025-ระเบิดรถด่วนขบวนระห่ำ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/a61ec38e5f6bae95134f2521/5145.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/46a133ef687e169f6f9265d3/7900.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "House of Sayuri (2024) บ้านผีอิหยังวะ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/01/House-of-Sayuri-2024-บ้านผีอิหยังวะ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/a95fee0e5aa7c2638dd70192/5809.m3u8"
           }
         ]
       }
