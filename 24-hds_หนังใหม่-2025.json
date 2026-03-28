@@ -1744,5 +1744,313 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Murder at the Lighthouse (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Murder-at-the-Lighthouse-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c470cd9dc24e1c3a00f81cfa/5107.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Legend of Feng Lou Divine Fox (2025) ตำนานเซียนจิ้งจอกแห่งเฟิ่งโหลว",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/The-Legend-of-Feng-Lou-Divine-Fox-2025-ตำนานเซียนจิ้งจอกแห่งเฟิ่งโหลว.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b83938b75deaf572f6bed423/7097.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Unrelenting Drug Interdiction (2025) ปราบยาล่าไม่เลิก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Unrelenting-Drug-Interdiction-2025-ปราบยาล่าไม่เลิก.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/320d098fc994643b68ac80cd/4137.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Healing (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/The-Healing-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/6b375a0190790923cb3d5b54/1009.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Single Salma (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Single-Salma-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/16a3f8c470c085c01c511689/5589.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fog of War (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/04/Fog-of-War-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/cf8db630a6fbd697ecfbb2ec/7456.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Cursed Insatiable Desires (2025) เรื่องผีสาป",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/The-Cursed-Insatiable-Desires-2025-เรื่องผีสาป.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/9c16aba4bba6ed192a42809e/1408.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Smurfs (2025) สเมิร์ฟ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/07/Smurfs-2025-สเมิร์ฟ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/79d704ffa81e99b0fdf3414a/3755.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/d5441fee9481cc4be43f2779/3627.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Smashing Machine (2025) ตำนานเครื่องจักรสังเวียนเดือด",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/The-Smashing-Machine-2025-ตำนานเครื่องจักรสังเวียนเดือด.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/8fe1808dc8b9979dd164c0a6/4662.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Murderer Report (2025) รายงานฆาตกร",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Murderer-Report-2025-รายงานฆาตกร.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/14a58963121e489bed176001/9543.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/a6a64c901cc84c5a416fbaf3/4423.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dust Bunny (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Dust-Bunny-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/23fd6c88fc4582372608ee09/3382.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "P77 (2025) พ77",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/P77-2025-พ77.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/eec2941dcd6040622f8457f3/4555.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Song Sung Blue (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Song-Sung-Blue-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/d1d901a6cef26d3cedbff982/6939.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rebuilding (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Rebuilding-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/633a5a1d56607e7df44105ed/5204.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Tale of Silyan (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/The-Tale-of-Silyan-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/464a1550a5beaa8c5edf5cca/6784.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kirot (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Kirot-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b13c031eab235e67d8fe9d31/3833.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hiram (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Hiram-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c9ced8554301cdf7ab5b69de/7907.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nak Loves Mak Sooo Much! (2025) นากรักมาก ม๊ากมาก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Nak-Loves-Mak-Sooo-Much-2025-นากรักมาก-ม๊ากมาก.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6c339de755ba0da8ce2a546b/5946.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Purge the World of Evil (2025) พิฆาตเงาชั่ว",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Purge-the-World-of-Evil-2025-พิฆาตเงาชั่ว.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/2d30cfc7b1ccd88a4eeabe9d/5228.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Magik Rompak (2025) โจรกรรมมายากล",
+    "image": "https://www.24-hds.com/wp-content/uploads/2026/01/Magik-Rompak-2025-โจรกรรมมายากล.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/035df811070dec7faa21c289/1740.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
