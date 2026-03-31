@@ -1357,5 +1357,337 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Cheers to Life (2024) เชียร์ส ทู ไลฟ์",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/06/Cheers-to-Life-2024-เชียร์ส-ทู-ไลฟ์.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/6419ab864a1ad0dd24ba5fb8/2546.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/4b9e82c1e59b1dcb80c437bd/7126.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Firefighters (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/06/Firefighters-2024.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/9e0a47f734b9cbdb7ca89d01/8475.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "My Old Ass (2024) เชื่อตัวเองดีที่สุด! (ไหมนะ)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/06/My-Old-Ass-2024-เชื่อตัวเองดีที่สุด-ไหมนะ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/ff72a598c6565be3e6c40251/6392.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/92609f61f3abeff32c68b782/6201.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Someone Like You ดุจดังเธอในดวงใจ (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/09/Someone-Like-You-ดุจดังเธอในดวงใจ-2024.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/73c578f13122d5bd855b3963/3426.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/7bee74156873c185a7e27bdf/5121.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Humane (2024) นี่นะเหรอ...มนุษยธรรม",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/06/Humane-2024-นี่นะเหรอ.มนุษยธรรม.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/8cc15ca9e5d7bea31e200480/1253.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/db0be077397357affee590a4/3560.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Uninvited (2024) แค้นไม่ได้รับเชิญ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/06/Uninvited-2024-แค้นไม่ได้รับเชิญ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/d499a9110c3b85f49d1cbcff/6270.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Marco (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/06/Marco-2024.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/0db9a062a538b6799850e714/7396.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "A Complete Unknown (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/02/A-Complete-Unknown-2024.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c0374f88197a1fbb0ebbaa43/8523.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "I Saw the TV Glow (2024) จิตจ้องจอ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/08/I-Saw-the-TV-Glow-2024-จิตจ้องจอ-1.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/f178d2b6e35d3c4cba8f215e/1309.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/576a39c1fd04df1d3a4b66cc/8995.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "About Family (2024) ครอบครัวนี้ใหญ่มว๊ากกก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/06/About-Family-2024-ครอบครัวนี้ใหญ่มว๊ากกก.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/15e104b740fb986ddf79ac99/3991.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Love Without Permission (2024) โปเยโปโลเย รักสูญสลาย",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/05/Love-Without-Permission-2024-โปเยโปโลเย-รักสูญสลาย.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/57fc2d2ce17248cb1dfd450e/4761.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ad15178c7262421f44e44623/2845.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hear Me Our Summer (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Hear-Me-Our-Summer-2024.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/fe4946a0c54569b442225c11/9021.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Justice League Crisis on Infinite Earths Part Three (2024) จัสติซ ลีก วิกฤติบนโลกที่ไม่สิ้นสุด ตอนที่ 3",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Justice-League-Crisis-on-Infinite-Earths-Part-Three-2024-จัสติซ-ลีก-วิกฤติบนโลกที่ไม่สิ้นสุด-ตอนที่-3.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/96be633bf974767acade2b43/8558.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Justice League Crisis on Infinite Earths Part Two (2024) จัสติซ ลีก วิกฤติบนโลกที่ไม่สิ้นสุด ตอนที่ 2",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Justice-League-Crisis-on-Infinite-Earths-Part-Two-2024-จัสติซ-ลีก-วิกฤติบนโลกที่ไม่สิ้นสุด-ตอนที่-2.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/a2c9f47313787ba1c19bf305/4164.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Justice League Crisis on Infinite Earths (2024) จัสติซ ลีก วิกฤติบนโลกที่ไม่สิ้นสุด",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Justice-League-Crisis-on-Infinite-Earths-2024-จัสติซ-ลีก-วิกฤติบนโลกที่ไม่สิ้นสุด.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/9894b93bc1a35f0bba6dcda1/7846.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Distant (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/01/Distant-2024.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c0eeaac69d58827594d81712/1370.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Apocalypse Z The Beginning of the End อะโพคาลิปซิส เซต้า จุดเริ่มต้นของจุดจบ (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/10/Apocalypse-Z-The-Beginning-of-the-End-อะโพคาลิปซิส-เซต้า-จุดเริ่มต้นของจุดจบ-2024.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/b0e0be44911e0e9294cfbbb5/2045.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dragonkeeper (2024)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/05/Dragonkeeper-2024.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/4b9f4f87ae7a85c37d17f7c2/5903.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "1992 (2024) คืนระห่ำโหด คนระห่ำแตก",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/11/1992-2024.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/524f72c8138cabeb96f23deb/4887.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/62594e757a6deff004b6a191/5776.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Between the Temples (2024) ดนตรี ศรัทธา ความฝัน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2024/10/Between-the-Temples-2024.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/b5652d9da50468a6a09ad400/9222.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/e6e7d012ee2616f53d2c2599/9633.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
