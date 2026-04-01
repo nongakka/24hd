@@ -12038,5 +12038,39 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Fullmetal Alchemist The Revenge Of Scar (2022) แขนกลคนแปรธาตุ สการ์ชำระแค้น",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/08/Fullmetal-Alchemist-The-Revenge-Of-Scar-2022-แขนกลคนแปรธาตุ-สการ์ชำระแค้น.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/7fc3f0a5a414d9d93c353853/6842.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/9b8ccc6f8ff2846cf14bb7a0/4486.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "FullMetal Alchemist (2017) แขนกลคนแปรธาตุ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2022/08/FullMetal-Alchemist-2017.jpg",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/61f44d37b1883ab8e4a91211/6527.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
