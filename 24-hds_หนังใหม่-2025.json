@@ -6586,5 +6586,329 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Uppercut (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/03/Uppercut-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/6cc1d738340e5ecb1c2a5651/8867.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dragon Seduction (2025) เจ้ามังกรแห่งท้องทะเล",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/03/Dragon-Seduction-2025-เจ้ามังกรแห่งท้องทะเล.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/8321b72e8c9da34938949109/7838.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Special Monster (2025) โคตรสัตว์ประหลาด",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/03/Special-Monster-2025-โคตรสัตว์ประหลาด-1.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/d30cafbf3f994420c57c35c9/1722.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sunray Fallen Soldier (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/03/Sunray-Fallen-Soldier-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ab76137e3497d285d5946f94/6490.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fight or Flight (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/03/Fight-or-Flight-2025-1.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/059682f2e3fb724ade858ec2/1156.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Daaku Maharaaj (2025) ดากู มหาราช",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/03/Daaku-Maharaaj-2025-ดากู-มหาราช-1.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/958d36ef89483f5c4da25ce6/8158.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Extras for Chasing The Dragon (2025) หน่วยล่าท้าคอร์รัปชั่น",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/03/Extras-for-Chasing-The-Dragon-2025-หน่วยล่าท้าคอร์รัปชั่น-1.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/24152f710430ef7fec4a7b90/5955.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CounterStrike (2025) ฝ่านรกกองโจร",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/02/CounterStrike-2025-ฝ่านรกกองโจร-1.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/80845516306b0e107027c8cf/1753.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Squad 36 (2025) หน่วย 36 ตำรวจมือพระกาฬ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/02/Squad-36-2025-หน่วย-36-ตำรวจมือพระกาฬ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/81a5a6ef4822260dc8b94549/6134.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/fa211452f6b067ca8f0181f8/7870.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Demon City (2025) เมืองอสูร",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/02/Demon-City-2025-เมืองอสูร-1.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/2dd18914ff13ed23ab79e09d/7993.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/4c7454f164404166538e6f2d/3551.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sosyal Climbers (2025) ตกกระไดพลอยรวย",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/02/Sosyal-Climbers-2025-ตกกระไดพลอยรวย.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/3a849441b6aa6bfae30fafce/6198.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/9a0764bc5192f301d5991756/2510.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Wrong Track (2025) เส้นทางพิสูจน์ใจ",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/02/The-Wrong-Track-2025-เส้นทางพิสูจน์ใจ.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/cfc55aeedf5ed08401c6c18d/2791.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/e0ae1c7463671dc5d91870e5/5661.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Truth is Murky (2025) หลังเงาฆาตกร",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/02/The-Truth-is-Murky-2025-หลังเงาฆาตกร.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/61b425bf797cbab6d79007bf/7495.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Slide (2025)",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/02/Slide-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/1eeda8097dca36938151a273/2732.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "A Copenhagen Love Story (2025) รักฉบับโคเปนเฮเกน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/02/A-Copenhagen-Love-Story-2025-รักฉบับโคเปนเฮเกน.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/5965405999e56ca623ff1a3d/7808.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ae4ebf3bf949beb6375d1115/7536.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Wolf Man (2025) มนุษย์หมาป่า",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/01/Wolf-Man-2025.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "TH",
+            "url": "https://main.24playerhd.com/newplaylist/8bd2dd1a8d55bddb0a20c39a/6286.m3u8"
+          },
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/88add0db2b5cb37ba8dc4b49/3557.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Story Of Detective Zhan Zhao (2025) ยอดนักสืบจั่นเจา",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/02/The-Story-Of-Detective-Zhan-Zhao-2025-ยอดนักสืบจั่นเจา-1.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/7bcf534cfa9164dc8f61dc24/1321.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Cursed Village (2025) หยินซานหมู่บ้านต้องสาป",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/02/The-Cursed-Village-2025-หยินซานหมู่บ้านต้องสาป.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/50cff1b62843e0380a4ed154/3352.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bleed for Justice (2025) เลือดยุติธรรม",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/02/Bleed-for-Justice-2025-เลือดยุติธรรม-1.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/ba781cfd2873bad9ae9e99b1/5458.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bodyguard 3 (2025) บอดี้การ์ด 3 ศึกตัดสิน",
+    "image": "https://www.24-hds.com/wp-content/uploads/2025/02/Bodyguard-3-2025-บอดี้การ์ด-3-ศึกตัดสิน.png",
+    "episodes": [
+      {
+        "name": "Full Movie",
+        "servers": [
+          {
+            "name": "EN",
+            "url": "https://main.24playerhd.com/newplaylist/c30ac6da424ea96717c20e26/5579.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
